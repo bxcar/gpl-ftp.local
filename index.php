@@ -885,12 +885,12 @@
     <div class="container">
         <h2 class="section2__title">Про компанію GPL</h2>
         <div class="section2__left">
-            <img class="section2__left-item" src="img/about/1.png" alt="">
-            <img class="section2__left-item" src="img/about/2.png" alt="">
-            <img class="section2__left-item" src="img/about/3.png" alt="">
-            <img class="section2__left-item" src="img/about/4.png" alt="">
-            <img class="section2__left-item" src="img/about/5.png" style="margin-bottom: 73px;" alt="">
-            <img class="section2__left-item" src="img/about/6.png" alt="">
+            <img class="section2__left-item" src="img/about/1.svg" alt="">
+            <img class="section2__left-item" src="img/about/2.svg" alt="">
+            <img class="section2__left-item" src="img/about/3.svg" alt="">
+            <img class="section2__left-item section2__left-item--4" src="img/about/4.svg" alt="">
+            <img class="section2__left-item" src="img/about/5.svg" style="margin-bottom: 73px;" alt="">
+            <img class="section2__left-item" src="img/about/6.svg" alt="">
         </div>
         <div class="section2_right">
             <p><b>GPL</b> — група компаній, яка веде діяльність з виробництва, дистрибуції та продажу мастильних
@@ -932,16 +932,16 @@
         </div>
         <div class="section2__images">
             <div class="section2__images__inner-wrapper">
-                <img class="section2__left-item" src="img/about-mobile/1.png" alt="">
-                <img class="section2__left-item" src="img/about-mobile/2.png" alt="">
+                <img class="section2__left-item" src="img/about/1.svg" alt="">
+                <img class="section2__left-item" src="img/about/2.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
-                <img class="section2__left-item" src="img/about-mobile/3.png" alt="">
-                <img class="section2__left-item" src="img/about-mobile/4.png" alt="">
+                <img class="section2__left-item" src="img/about/3.svg" alt="">
+                <img class="section2__left-item" src="img/about/4.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
-                <img class="section2__left-item" src="img/about-mobile/5.png" alt="">
-                <img class="section2__left-item section2__left-item--mg-fix" src="img/about-mobile/6.png" alt="">
+                <img class="section2__left-item" src="img/about/5.svg" alt="">
+                <img class="section2__left-item section2__left-item--mg-fix" src="img/about/6.svg" alt="">
             </div>
         </div>
     </div>
@@ -1427,8 +1427,8 @@
             <div class="section-contacts__right">
                 <span class="section-contacts__right-title">Ми в соціальних мережах:</span>
                 <div class="section-contacts__right-socials-wrapper">
-                    <a href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.png" alt=""></a>
-                    <a href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.png"
+                    <a href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.svg" alt=""></a>
+                    <a href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.svg"
                                                                                             alt=""></a>
                 </div>
                 <a href="https://gpl.ua/career-ua.php" class="section-contacts__right-link">Кар’єра</a>

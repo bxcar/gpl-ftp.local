@@ -280,6 +280,10 @@ header {
     margin-right: 198px
 }
 
+.header__menu--ru>ul {
+    margin-right: 146px;
+}
+
 .header__menu-item-li--dropdown,
 .header__menu>ul {
     position: relative
@@ -331,6 +335,10 @@ header {
 
 .header__menu li {
     width: 137px
+}
+
+.header__menu--ru li {
+    width: 150px;
 }
 
 .header__menu-item {
@@ -712,6 +720,11 @@ header {
 .section2__left-item {
     margin-right: 12px;
     margin-bottom: 40px
+}
+
+.section2__left-item--4 {
+    position: relative;
+    top: 5px;
 }
 
 .section2__left-item:nth-child(2n) {

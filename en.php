@@ -59,23 +59,23 @@
     </video>
     <div class="header__top-panel">
         <div class="container">
-            <a href="/" class="header__logo"><img src="img/logo.svg" alt=""></a>
+            <a href="" class="header__logo"><img src="img/logo.svg" alt=""></a>
             <div class="header__menu">
                 <ul>
-                    <li><a href="/" class="header__menu-item">Головна</a></li>
+                    <li><a href="" class="header__menu-item">Home</a></li>
                     <li class="header__menu-item-li--dropdown">
-                        <a class="header__menu-item header__menu-item--dropdown">Діяльність
+                        <a class="header__menu-item header__menu-item--dropdown">Activity
                             <img src="img/bottom-arrow.png" alt=""></a>
                         <ul class="header__dropdown-menu">
-                            <li><a href="https://gpl.ua/b2b-ua.php" class="header__dropdown-menu-item">B2B</a></li>
-                            <li><a href="https://gpl.ua/b2c-ua.php" class="header__dropdown-menu-item">B2C</a></li>
-                            <li><a href="https://gpl.ua/services-ua.php" class="header__dropdown-menu-item">Послуги</a>
+                            <li><a href="https://gpl.ua/b2b-en.php" class="header__dropdown-menu-item">B2B</a></li>
+                            <li><a href="https://gpl.ua/b2c-en.php" class="header__dropdown-menu-item">B2C</a></li>
+                            <li><a href="https://gpl.ua/services-en.php" class="header__dropdown-menu-item">Services</a>
                             </li>
                         </ul>
                     </li>
-                    <li><a href="https://gpl.ua/career-ua.php" class="header__menu-item">Кар’єра</a></li>
+                    <li><a href="https://gpl.ua/career-en.php" class="header__menu-item">Career</a></li>
                     <li><a href="#footer" class="header__menu-item"
-                           style="position: relative; left: -16px;">Контакти</a></li>
+                           style="position: relative; left: -16px;">Contacts</a></li>
                     <hr>
                 </ul>
             </div>
@@ -882,12 +882,12 @@
     <div class="container">
         <h2 class="section2__title">Про компанію GPL</h2>
         <div class="section2__left">
-            <img class="section2__left-item" src="img/about/1.png" alt="">
-            <img class="section2__left-item" src="img/about/2.png" alt="">
-            <img class="section2__left-item" src="img/about/3.png" alt="">
-            <img class="section2__left-item" src="img/about/4.png" alt="">
-            <img class="section2__left-item" src="img/about/5.png" style="margin-bottom: 73px;" alt="">
-            <img class="section2__left-item" src="img/about/6.png" alt="">
+            <img class="section2__left-item" src="img/about/1.svg" alt="">
+            <img class="section2__left-item" src="img/about/2.svg" alt="">
+            <img class="section2__left-item" src="img/about/3.svg" alt="">
+            <img class="section2__left-item section2__left-item--4" src="img/about/4.svg" alt="">
+            <img class="section2__left-item" src="img/about/5.svg" style="margin-bottom: 73px;" alt="">
+            <img class="section2__left-item" src="img/about/6.svg" alt="">
         </div>
         <div class="section2_right">
             <p><b>GPL</b> — група компаній, яка веде діяльність з виробництва, дистрибуції та продажу мастильних
@@ -929,16 +929,16 @@
         </div>
         <div class="section2__images">
             <div class="section2__images__inner-wrapper">
-                <img class="section2__left-item" src="img/about-mobile/1.png" alt="">
-                <img class="section2__left-item" src="img/about-mobile/2.png" alt="">
+                <img class="section2__left-item" src="img/about/1.svg" alt="">
+                <img class="section2__left-item" src="img/about/2.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
-                <img class="section2__left-item" src="img/about-mobile/3.png" alt="">
-                <img class="section2__left-item" src="img/about-mobile/4.png" alt="">
+                <img class="section2__left-item" src="img/about/3.svg" alt="">
+                <img class="section2__left-item" src="img/about/4.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
-                <img class="section2__left-item" src="img/about-mobile/5.png" alt="">
-                <img class="section2__left-item section2__left-item--mg-fix" src="img/about-mobile/6.png" alt="">
+                <img class="section2__left-item" src="img/about/5.svg" alt="">
+                <img class="section2__left-item section2__left-item--mg-fix" src="img/about/6.svg" alt="">
             </div>
         </div>
     </div>
@@ -1424,11 +1424,11 @@
             <div class="section-contacts__right">
                 <span class="section-contacts__right-title">Ми в соціальних мережах:</span>
                 <div class="section-contacts__right-socials-wrapper">
-                    <a href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.png" alt=""></a>
-                    <a href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.png"
+                    <a href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.svg" alt=""></a>
+                    <a href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.svg"
                                                                                             alt=""></a>
                 </div>
-                <a href="https://gpl.ua/career-ua.php" class="section-contacts__right-link">Кар’єра</a>
+                <a href="https://gpl.ua/career-en.php" class="section-contacts__right-link">Career</a>
             </div>
         </div>
     </div>
@@ -1487,12 +1487,12 @@
                 <div class="row">
                     <h2>Меню</h2>
                     <ul>
-                        <li><a href="/">Головна</a></li>
-                        <li><a href="/b2b-ua.php">B2B</a></li>
-                        <li><a href="/b2c-ua.php">B2C</a></li>
-                        <li><a href="/services-ua.php">Послуги</a></li>
-                        <li><a href="/career-ua.php">Кар'єра</a></li>
-                        <li><a href="#footer" class="popup-close">Контакти</a></li>
+                        <li><a href="">Home</a></li>
+                        <li><a href="/b2b-en.php">B2B</a></li>
+                        <li><a href="/b2c-en.php">B2C</a></li>
+                        <li><a href="/services-en.php">Services</a></li>
+                        <li><a href="/career-en.php">Career</a></li>
+                        <li><a href="#footer" class="popup-close">Contacts</a></li>
                     </ul>
 
                     <div class="lang">
