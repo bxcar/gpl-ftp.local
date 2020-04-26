@@ -1431,7 +1431,10 @@
                     <a href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.svg"
                                                                                             alt=""></a>
                 </div>
-                <a href="https://gpl.ua/career-ua.php" class="section-contacts__right-link">Кар’єра</a>
+                <div class="section-contacts__links-wrapper">
+                    <a href="https://gpl.ua/career-ua.php" class="section-contacts__right-link">Кар’єра</a>
+                    <a target="_blank" href="https://corp.gpl.ua/" class="section-contacts__right-link">Corp</a>
+                </div>
             </div>
         </div>
     </div>

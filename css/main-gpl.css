@@ -953,7 +953,22 @@ header {
     display: none !important;
 }
 
+.section-contacts__links-wrapper {
+    display: flex;
+}
+
+.section-contacts__right-link:first-child {
+    margin-right: 20px;
+}
+
+.section-contacts__right-link:last-child {
+    background: #FDD100;
+}
+
 @media (max-width: 480px) {
+    .section-contacts__right-title {
+        text-align: center;
+    }
     .footer__download-button {
         left: 0;
         position: static;

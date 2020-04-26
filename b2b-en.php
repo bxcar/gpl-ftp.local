@@ -39,14 +39,14 @@
 			 
 			<div class="block-2 wrap">
 				<div class="content">
-					<div class="row">
+					<div class="row row-4-adr en">
 					
 						<div class="col col-1">
 							<img src="images/4.png" alt=""/>
 							<p>"GPL" LLC.</p>
 						</div>
 						
-						<div class="col col-2" style="width:200px">
+						<div class="col col-2">
 							<h2>Poltava</h2>
 							<p><a href="https://goo.gl/maps/yuzhgewL8A72" target="_blank" style="padding: 0;">st. Polovka, 70 B</a></p>
 
@@ -62,11 +62,19 @@
 							<a href="mailto:gplkharkiv@gpl.pl.ua" class="mail">gplkharkiv@gpl.pl.ua</a>
 						</div>
 						
-						<div class="col col-4" style="width: 332px; float: left;">
+						<div class="col col-4">
 							<h2>Island, Ternopil region</h2>
 							<p><a href="#" target="_blank" style="padding: 0;">st. Industrial 1</a></p>
 							<a href="tel:+38 (0532) 65-50-36" class="phone">+38 (0532) <span>65-50-36</span></a>
 						</div>
+
+                        <div class="col col-5">
+                            <h2>Boryspil</h2>
+                            <p> 38 А Zaporizhska str.</p>
+
+                            <a href="tel:+380443313940" class="phone">+38 (044) <span>331-39-40</span></a>
+                            <a href="tel:+380663144312" class="phone">+38 (066) <span>314-43-12</span></a>
+                        </div>
 						
 					</div>
 					

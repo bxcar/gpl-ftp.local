@@ -39,14 +39,14 @@
 			 
 			<div class="block-2 wrap">
 				<div class="content">
-					<div class="row">
+					<div class="row row-4-adr">
 					
 						<div class="col col-1">
 							<img src="images/4.png" alt=""/>
 							<p>ООО «ГПЛ»</p>
 						</div>
 						
-						<div class="col col-2" style="width:200px">
+						<div class="col col-2">
 							<h2>г. Полтава</h2>
 							<p><a href="https://goo.gl/maps/yuzhgewL8A72" target="_blank" style="padding: 0;">ул. Половки, 70 Б</a></p>
 
@@ -56,17 +56,25 @@
 						
 						<div class="col col-3">
 							<h2>г. Харьков</h2>
-							<p><a href="https://goo.gl/maps/hj7EHd1mAG52" target="_blank" style="padding: 0;">просп. Лозовеньковский, 3</a></p>
+							<p><a href="https://goo.gl/maps/hj7EHd1mAG52" target="_blank" style="padding: 0;">просп.<br>Лозовеньковский, 3</a></p>
 
 							<a href="tel:+38 (057) 764-39-29" class="phone">+38 (057) <span>764-39-29</span></a>
 							<a href="mailto:gplkharkiv@gpl.pl.ua" class="mail">gplkharkiv@gpl.pl.ua</a>
 						</div>
 						
-						<div class="col col-4" style="width: 332px; float: left;">
-							<h2>c. Остров, Тернопольская область</h2>
+						<div class="col col-4" style="max-width: 220px;">
+							<h2>c. Остров,<br>Тернопольская область</h2>
 							<p><a href="#" target="_blank" style="padding: 0;">ул. Промышленная 1</a></p>
 							<a href="tel:+38 (0532) 65-50-36" class="phone">+38 (0532) <span>65-50-36</span></a>
 						</div>
+
+                        <div class="col col-5">
+                            <h2>г. Борисполь</h2>
+                            <p><a href="https://goo.gl/maps/yuzhgewL8A72" target="_blank" style="padding: 0;">ул. Запорожская, 38а</a></p>
+                            <a href="tel:+380443313940" class="phone">+38 (044) <span>331-39-40</span></a>
+                            <a href="tel:+380663144312" class="phone">+38 (066) <span>314-43-12</span></a>
+
+                        </div>
 						
 					</div>
 					

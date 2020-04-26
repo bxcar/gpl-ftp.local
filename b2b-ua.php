@@ -39,14 +39,14 @@
 
 			<div class="block-2 wrap">
 				<div class="content">
-					<div class="row">
+					<div class="row row-4-adr">
 
 						<div class="col col-1">
 							<img src="images/gplblack.png" alt=""/>
 							<p>ТОВ "ГПЛ"</p>
 						</div>
 
-						<div class="col col-2" style="width:200px">
+						<div class="col col-2">
 							<h2>м. Полтава</h2>
 							<p><a href="https://goo.gl/maps/yuzhgewL8A72" target="_blank" style="padding: 0;">вул. Половки, 70 Б</a></p>
 							<a href="tel:0 800 755 780" class="phone">0 (800) <span>755 780</span></a>
@@ -55,15 +55,23 @@
 
 						<div class="col col-3">
 							<h2>м. Харків</h2>
-							<p><a href="https://goo.gl/maps/hj7EHd1mAG52" target="_blank" style="padding: 0;">просп. Лозовеньківський, 3</a></p>
+							<p><a href="https://goo.gl/maps/hj7EHd1mAG52" target="_blank" style="padding: 0;">просп.<br> Лозовеньківський, 3</a></p>
 							<a href="tel:0 (800) 756 996" class="phone">0 (800) <span>756 996</span></a>
 						</div>
 
-						<div class="col col-4" style="width: 332px; float: left;">
-							<h2>c. Острів, Тернопільська область</h2>
+						<div class="col col-4">
+							<h2>c. Острів,<br>Тернопільська область</h2>
 							<p><a href="#" target="_blank" style="padding: 0;">вул. Промислова, 1</a></p>
 							<a href="tel:0 (800) 755 385" class="phone">0 (800) <span>755 385</span></a>
 						</div>
+
+                        <div class="col col-5">
+                            <h2>м. Бориспіль</h2>
+                            <p><a href="https://goo.gl/maps/yuzhgewL8A72" target="_blank" style="padding: 0;">вул. Запорізька, 38а</a></p>
+                            <a href="tel:+380443313940" class="phone">+38 (044) <span>331-39-40</span></a>
+                            <a href="tel:+380663144312" class="phone">+38 (066) <span>314-43-12</span></a>
+
+                        </div>
 
 					</div>
 
