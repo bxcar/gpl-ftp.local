@@ -5,9 +5,9 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Группа компаний «ГПЛ»</title>
+    <title>Група компаній GPL</title>
     <meta name="description"
-          content="ГПЛ ведет деятельность по производству, дистрибуции и продажи масел, технических жидкостей и автозапчастей на легковые и грузовые автомобили."/>
+          content="GPL веде діяльність з виробництва, дистрибуції та продажу мастильних матеріалів,<br> технічних рідин та автозапчастин на легкові та вантажні автомобілі"/>
 
     <link rel="shortcut icon" href="images/favicon.png"/>
     <link rel="apple-touch-icon" href="images/favicon.png">
@@ -52,6 +52,25 @@
     <link rel="stylesheet" href="css/map-styles-for-new-main.css">
     <link rel="stylesheet" href="css/style-for-burger-menu.css">
     <link rel="stylesheet" href="css/pda-for-burger-menu.css">
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window,document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+ 	fbq('init', '548553472528714');
+	fbq('track', 'PageView');
+	</script>
+	<noscript>
+ 	<img height="1" width="1"
+	src="https://www.facebook.com/tr?id=548553472528714&ev=PageView
+	&noscript=1"/>
+	</noscript>
+	<!-- End Facebook Pixel Code -->
     <!--header styles end-->
 </head>
 <body>
@@ -60,6 +79,7 @@
     <video autoplay muted loop id="myVideo">
         <source src="img/header-bg-video.mp4" type="video/mp4">
     </video>
+    <img src="img/mobile-header-bg.png" class="mobile-header-bg" alt="">
     <div class="header__top-panel">
         <div class="container">
             <a href="/" class="header__logo"><img src="img/logo.svg" alt=""></a>
@@ -102,7 +122,7 @@
     </div>
     <div class="container">
         <div class="header__big-part">
-            <h1 class="header__title">GPL The Future</h1>
+            <h1 class="header__title"><br>GPL The Future</h1>
             <span class="header__subtitle">Група компаній з виробництва, дистрибуції та продажу мастильних матеріалів,<br> технічних рідин та автозапчастин на легкові та вантажні автомобілі</span>
             <a data-fancybox href="https://www.youtube.com/watch?v=lWzKXGPUIfY" class="header__video-button">Переглянути
                 відео</a>
@@ -230,7 +250,7 @@
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://doloni.ua/" class="section1_logo-item"><img
                                 src="img/logos/zapchastyny-ta-aksesuary/19.png" alt=""></a>
-                    <a target="_blank" href="http://mitka.gpl.ua" class="section1_logo-item"><img
+                    <a target="_blank" href="http://gpl.ua" class="section1_logo-item"><img
                                 src="img/logos/zapchastyny-ta-aksesuary/20.png" alt=""></a>
                     <a target="_blank" href="http://tkdafmi.ru/" class="section1_logo-item"><img
                                 src="img/logos/zapchastyny-ta-aksesuary/21.png" alt=""></a>
@@ -300,7 +320,7 @@
                                 src="img/logos/avtohimia/6.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
-                    <a target="_blank" href="http://mitka.gpl.ua" class="section1_logo-item"><img
+                    <a target="_blank" href="http://gpl.ua" class="section1_logo-item"><img
                                 src="img/logos/avtohimia/7.png" alt=""></a>
                     <a target="_blank" href="https://imex.ck.ua/" class="section1_logo-item"><img
                                 src="img/logos/avtohimia/8.png" alt=""></a>
@@ -748,7 +768,7 @@
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="http://www.naftan.by/ru/default_ru.aspx" class="section1_logo-item"><img
                             src="img/logos-mobile/mastylni-materialy/7.png" alt=""></a>
-                    <a target="_blank" href="http://agrinol.ua/" class="section1_logo-item"><img
+                    <a target="_blank" href="http://agrinol.ua/" class="section1_logo-item agrinol"><img
                             src="img/logos-mobile/mastylni-materialy/8.png" alt=""></a>
                     <a style="visibility: hidden; height: 1px;" target="_blank" href="http://agrinol.ua/" class="section1_logo-item"><img
                             src="img/logos-mobile/mastylni-materialy/5.png" alt=""></a>
@@ -900,7 +920,7 @@
                 підприємства комерційно-індустріального напрямку, агропідприємства, корпоративні клієнти, державні і
                 комунальні підприємства, мережі АЗС, станції технічного обслуговування автомобілів, столи замовлень,
                 інтернет-магазини, супермаркети, автомагазини.</p>
-            <p>Маємо власний бренд <b><a target="_blank" style="text-decoration: none; color: inherit;" href="http://vira.ua/">Vira</a></b> — український бренд під яким виготовляються технічні рідини і мастильні
+            <p>Маємо власний бренд <b><a target="_blank" style="text-decoration: none; color: inherit;" href="http://vira.ua/">Vira</a></b> — український продукт під яким виготовляються технічні рідини і мастильні
                 матеріали. Виробництво розташоване в місті Полтаві. Маємо власний комплекс з виготовлення, фасування та
                 зберігання мастильних матеріалів, де продуктивність виробництва сягає 100 000 літрів на добу.</p>
             <p>Також, ми працюємо за такими напрямками:<br>
@@ -919,7 +939,7 @@
                 підприємства комерційно-індустріального напрямку, агропідприємства, корпоративні клієнти, державні і
                 комунальні підприємства, мережі АЗС, станції технічного обслуговування автомобілів, столи замовлень,
                 інтернет-магазини, супермаркети, автомагазини. <a href="#" class="read-more">Читати більше...</a></p>
-            <p class="hidden">Маємо власний бренд <b>Vira</b> — український бренд під яким виготовляються технічні рідини і мастильні
+            <p class="hidden">Маємо власний бренд <b><a target="_blank" style="text-decoration: none; color: inherit;" href="http://vira.ua/">Vira</a></b> — український продукт під яким виготовляються технічні рідини і мастильні
                 матеріали. Виробництво розташоване в місті Полтаві. Маємо власний комплекс з виготовлення, фасування та
                 зберігання мастильних матеріалів, де продуктивність виробництва сягає 100 000 літрів на добу.</p>
             <p class="hidden">Також, ми працюємо за такими напрямками:<br>
@@ -1040,20 +1060,20 @@
             <img src="img/certificates/small/18.png" alt=""/>
             <img src="img/certificates/small-mobile/18.png" alt=""/>
         </a>
-        <a href="img/certificates/big/7.png" class="hide-on-mob-by-visible" data-fancybox="images">
+        <a href="img/certificates/big/19.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
-            <img src="img/certificates/small/7.png" alt=""/>
-            <img src="img/certificates/small-mobile/7.png" alt=""/>
+            <img src="img/certificates/small/19.png" alt=""/>
+            <img src="img/certificates/small-mobile/19.png" alt=""/>
         </a>
-        <a href="img/certificates/big/8.png" class="hide-on-mob-by-visible" data-fancybox="images">
+        <a href="img/certificates/big/20.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
-            <img src="img/certificates/small/8.png" alt=""/>
-            <img src="img/certificates/small-mobile/8.png" alt=""/>
+            <img src="img/certificates/small/20.png" alt=""/>
+            <img src="img/certificates/small-mobile/20.png" alt=""/>
         </a>
-        <a href="img/certificates/big/15.png" class="hide-on-mob" data-fancybox="images">
+        <a href="img/certificates/big/21.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
-            <img src="img/certificates/small/15.png" alt=""/>
-            <img src="img/certificates/small-mobile/15.png" alt=""/>
+            <img src="img/certificates/small/21.png" alt=""/>
+            <img src="img/certificates/small-mobile/21.png" alt=""/>
         </a>
     </div>
 </div>
@@ -1218,7 +1238,7 @@
             </div>
 
             <div class="item ternopol">
-                <div class="street">c. Острів, Тернопільська область, <br/><span class="nowrap">вул. Промислова 1</span></div>
+                <div class="street">c. Острів, Тернопільська область, <br/><span class="nowrap">вул. Промислова 3</span></div>
             </div>
 
         </div>
@@ -1354,7 +1374,7 @@
     var contentString4 = '<div class="block-info"><div class="block-info-window">' +
         '<div class="image" style="background:url(images/map100.png) center; background-size:cover;"></div>' +
         '<h2>Тернопіль</h2>' +
-        '<span><a href="https://bit.ly/2Om2GJo" target="_blank">вул. Промислова 1, c. Острів, Тернопільська область</a></span><a href="tel:+0 (800) 755 385">0 (800) 755 385</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
+        '<span><a href="https://goo.gl/maps/gADpEovo17VRWNzS7" target="_blank">вул. Промислова 3, c. Острів, Тернопільська область</a></span><a href="tel:+0 (800) 755 385">0 (800) 755 385</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
 
     var infowindow = new google.maps.InfoWindow({});
 
@@ -1427,9 +1447,9 @@
             <div class="section-contacts__right">
                 <span class="section-contacts__right-title">Ми в соціальних мережах:</span>
                 <div class="section-contacts__right-socials-wrapper">
-                    <a href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.svg" alt=""></a>
-                    <a href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.svg"
-                                                                                            alt=""></a>
+                    <a target="_blank" href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.svg" alt=""></a>
+                    <a target="_blank" href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.svg" alt=""></a>
+                    <a target="_blank" href="https://www.instagram.com/gpl.ukraine/"><img src="img/inst-icon.svg" alt=""></a>
                 </div>
                 <div class="section-contacts__links-wrapper">
                     <a href="https://gpl.ua/career-ua.php" class="section-contacts__right-link">Кар’єра</a>

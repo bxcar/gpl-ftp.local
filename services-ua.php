@@ -59,8 +59,7 @@
 							<h2>м. Полтава</h2>
 							<p><a href="https://goo.gl/maps/cRrG2SNe6jG2" target="_blank" style="padding: 0;">вул. Половки, 70Е</a></p>
 
-							<a href="tel:+38(050) 405-11-59" class="phone">+38 (050) <span>405-11-59</span></a>
-							<a href="tel:+38 (050) 405-11-51">+38 (050) <span>405-11-51</span></a>
+							<a href="tel:0(080) 752 720" class="phone">0 (800) <span>752 720</span></a>
 							<a style="text-decoration: underline;" href="http://sto.gpl.ua" target="_blank"><strong>sto.gpl.ua</strong></a>
 						</div>
 
@@ -121,6 +120,69 @@
 					</div>
 				</div>
 			</div>
+
+            <div class="block-2 block-9 wrap">
+                <div class="content">
+                    <div class="row">
+
+                        <div class="col col-1">
+							<img src="images/HO.png" alt=""/>
+                           </div>
+
+                        <div class="col col-2">
+                            <h2>м. Полтава</h2>
+                            <p><a href="https://goo.gl/maps/X41FrSSmemH2" target="_blank" style="padding: 0;">вул. Зіньківська, 14</a></p>
+
+                        </div>
+
+                        <div class="col col-2-phone">
+                            <a href="tel:+38 (050) 633-10-55" class="phone">+38 (050) <span>633-10-55</span></a>
+							<a style="text-decoration: underline;" href="http://hoburo.com" target="_blank"><strong>hoburo.com</strong></a>
+
+                        </div>
+
+                    </div>
+
+                    <div class="text">
+                        <p> Експертиза і прагнення до інновацій дозволяє створювати об'єкти, які є актуальними десятиліттями. </p>
+						<p>Ми вже більше 20 років займаємось розробкою архітектури та дизайну інтер'єрів житлових, громадських, комерційних приміщень та проектуванням приватних будинків і котеджів в усіх проявах сучасного дизайну.</p>
+						<p> Надаємо повний комплекс послуг від розробки концепції проекту до його повної комплектації меблями та необхідним обладнанням. Працюємо зі світовими лідерами та підтримуємо українських виробників.</p>
+
+
+
+                    </div>
+
+                    <div class="image big">
+
+                        <div class="item">
+                            <a href="images/9/2.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/9/2.JPG) center; background-size:cover;"></a>
+                        </div>
+
+                        <div class="item">
+                            <a href="images/9/4.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/9/4.JPG) center; background-size:cover;"></a>
+                        </div>
+                        <div class="item">
+                            <a href="images/9/5.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/9/5.JPG) center; background-size:cover;"></a>
+                        </div>
+                        <div class="item">
+                            <a href="images/9/6.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/9/6.JPG) center; background-size:cover;"></a>
+                        </div>
+                        <div class="item">
+                            <a href="images/9/7.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/9/7.JPG) center; background-size:cover;"></a>
+                        </div>
+                        <div class="item">
+                            <a href="images/9/8.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/9/8.JPG) center; background-size:cover;"></a>
+                        </div>
+                        <div class="item">
+                            <a href="images/9/1.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/9/1.JPG) center; background-size:cover;"></a>
+                        </div>
+
+                        <div class="item">
+                            <a href="images/9/3.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/9/3.JPG) center; background-size:cover;"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
 			<div class="block-2 block-10 wrap">
@@ -205,7 +267,7 @@
 					</div>
 			</div>
 
-			<div class="block-2 block-11 block-12 wrap">
+			<div class="block-2 block-11 block-12 wrap" style="margin-bottom: 0;">
 				<div class="content">
 					<div class="row">
 
@@ -240,6 +302,38 @@
 					</div>
 				</div>
 			</div>
+
+            <div class="block-2 block-8 wrap b2c-custom" style="margin-bottom: 100px;">
+                <div class="content">
+                    <div class="row">
+
+                        <div class="col col-1" style="float: none;">
+                            <img src="img/commerce-credit.png" alt="" style="margin: 25px 0 0;">
+                            <p>Комерційне кредитування</p>
+                        </div>
+                        <br>
+                        <div class="col col-2">
+                            <h2>м. Полтава</h2>
+                            <p><a href="https://goo.gl/maps/cRrG2SNe6jG2" target="_blank" style="padding: 0;">вул. Половки, 70 Б</a></p>
+
+                        </div>
+
+                        <div class="col col-2-phone">
+                            <a href="tel:+38 (0532) 65-50-36" class="phone">+38 (0532) <span>65-50-36</span></a>
+                        </div>
+                    </div>
+
+                    <div class="text">
+                        <p>Група компаній ГПЛ пропонує спеціальну партнерську програму фінансування спільно з АТ Полтава-Банк за програмою спрощений кредит для підприємців. (Відкриття філіалів, розширення складської площи, модернізація виробництва і т.і.)</p>
+                    </div>
+
+                    <!--<div class="image big">
+                        <div class="item">
+                            <a href="images/2/1.JPG" class="fancybox img" data-fancybox-group="group-1" style="background:url(images/2/1.JPG) center; background-size:cover;"></a>
+                        </div>
+                    </div>-->
+                </div>
+            </div>
 
 		</div>
 

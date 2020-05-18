@@ -59,6 +59,7 @@
     <video autoplay muted loop id="myVideo">
         <source src="img/header-bg-video.mp4" type="video/mp4">
     </video>
+	<img src="img/mobile-header-bg.png" class="mobile-header-bg" alt="">
     <div class="header__top-panel">
         <div class="container">
             <a href="" class="header__logo"><img src="img/logo.svg" alt=""></a>
@@ -82,7 +83,7 @@
                 </ul>
             </div>
             <div class="header__phone">
-                <span class="header__phone-title">Телефон гарячої лінії:</span>
+                <span class="header__phone-title">Телефон горячей линии:</span>
                 <a href="tel:+380532655036" class="header__phone-value">+38 (0532) 65 50 36</a>
             </div>
             <div class="header__language">
@@ -102,84 +103,83 @@
     <div class="container">
         <div class="header__big-part">
             <h1 class="header__title">GPL The Future</h1>
-            <span class="header__subtitle">Група компаній з виробництва, дистрибуції та продажу мастильних матеріалів,<br> технічних рідин та автозапчастин на легкові та вантажні автомобілі</span>
-            <a data-fancybox href="https://www.youtube.com/watch?v=lWzKXGPUIfY" class="header__video-button">Переглянути
-                відео</a>
+            <span class="header__subtitle">Группа компаний по производству, дистрибуции и продаже смазочных материалов,<br> технических жидкостей и автозапчастей на легковые и грузовые автомобили</span>
+            <a data-fancybox href="https://www.youtube.com/watch?v=lWzKXGPUIfY" class="header__video-button">Посмотреть видео</a>
         </div>
     </div>
 </header>
 <div class="section1 container">
     <div class="section1__titles">
-        <a data-title="zapchastyny" title="Запчастини та аксесуари" href="#" class="section1__title">
+        <a data-title="zapchastyny" title="Запчасти и аксессуары" href="#" class="section1__title">
             <div><img src="img/logos/icons/zapchastyny.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/zapchastyny-hover.png"
                     class="section1__title-img-active"></div>
-            Запчастини
-            та аксесуари</a>
-        <a data-title="mastylni" title="Мастильні матеріали" href="#" class="section1__title active">
+            Запчасти и
+			аксессуары</a>
+        <a data-title="mastylni" title="Смазочные материалы" href="#" class="section1__title active">
             <div><img src="img/logos/icons/mastylni.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/mastylni-hover.png"
                     class="section1__title-img-active"></div>
-            Мастильні
-            матеріали</a>
-        <a data-title="avtohimia" title="Автохімія" href="#" class="section1__title">
+            Смазочные
+			материалы</a>
+        <a data-title="avtohimia" title="Автохимия" href="#" class="section1__title">
             <div><img src="img/logos/icons/avtohimia.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/avtohimia-hover.png"
                     class="section1__title-img-active"></div>
-            Автохімія</a>
-        <a data-title="aerozoli" title="Аерозольні фарби" href="#" class="section1__title">
+            Автохимия</a>
+        <a data-title="aerozoli" title="Аэрозольные краски" href="#" class="section1__title">
             <div><img src="img/logos/icons/aerozoli.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/aerozoli-hover.png"
                     class="section1__title-img-active"></div>
-            Аерозольні
-            фарби</a>
-        <a data-title="filtry" title="Фільтри" href="#" class="section1__title">
+            Аэрозольные
+			краски</a>
+        <a data-title="filtry" title="Фильтры" href="#" class="section1__title">
             <div><img src="img/logos/icons/filtry.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/filtry-hover.png"
                     class="section1__title-img-active"></div>
-            Фільтри</a>
-        <a data-title="galmivi" title="Гальмівні колодки" href="#" class="section1__title">
+            Фильтры</a>
+        <a data-title="galmivi" title="Тормозные колодки" href="#" class="section1__title">
             <div><img src="img/logos/icons/galmivi.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/galmivi-hover.png"
                     class="section1__title-img-active"></div>
-            Гальмівні
-            колодки</a>
-        <a data-title="vyhlopni" title="Вихлопні системи" href="#"
+            Тормозные
+			колодки</a>
+        <a data-title="vyhlopni" title="Выхлопные системы" href="#"
            class="section1__title desk-display-none-section1-titles">
             <div><img src="img/logos/icons/vyhlopni.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/vyhlopni-hover.png"
                     class="section1__title-img-active"></div>
-            Вихлопні
-            системи</a>
-        <a data-title="akumulyatory" title="Акумулятори" href="#"
+            Выхлопные
+			системы</a>
+        <a data-title="akumulyatory" title="Аккумуляторы" href="#"
            class="section1__title desk-display-none-section1-titles">
             <div><img src="img/logos/icons/akumulyatory.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/akumulyatory-hover.png"
                     class="section1__title-img-active"></div>
-            Акумулятори</a>
-        <a data-title="avtoshiny" title="Автошини" href="#" class="section1__title desk-display-none-section1-titles">
+            Аккумуляторы</a>
+        <a data-title="avtoshiny" title="Автошины" href="#" class="section1__title desk-display-none-section1-titles">
             <div><img src="img/logos/icons/avtoshiny.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/avtoshiny-hover.png"
                     class="section1__title-img-active"></div>
-            Автошини</a>
+            Автошины</a>
     </div>
     <div class="section1__titles2">
-        <a data-title="vyhlopni" title="Вихлопні системи" href="#" class="section1__title">
+        <a data-title="vyhlopni" title="Выхлопные системы" href="#" class="section1__title">
             <div><img src="img/logos/icons/vyhlopni.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/vyhlopni-hover.png"
                     class="section1__title-img-active"></div>
-            Вихлопні
-            системи</a>
-        <a data-title="akumulyatory" title="Акумулятори" href="#" class="section1__title">
+            Выхлопные
+			системы</a>
+        <a data-title="akumulyatory" title="Аккумуляторы" href="#" class="section1__title">
             <div><img src="img/logos/icons/akumulyatory.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/akumulyatory-hover.png"
                     class="section1__title-img-active"></div>
-            Акумулятори</a>
-        <a data-title="avtoshiny" title="Автошини" href="#" class="section1__title">
+            Аккумуляторы</a>
+        <a data-title="avtoshiny" title="Автошины" href="#" class="section1__title">
             <div><img src="img/logos/icons/avtoshiny.png" alt="" class="section1__title-img-inactive"><img
                     src="img/logos/icons/avtoshiny-hover.png"
                     class="section1__title-img-active"></div>
-            Автошини</a>
+            Автошины</a>
     </div>
     <div class="section1__logos-wrapper section1__logos-wrapper--desktop">
         <div class="section1__logos">
@@ -229,7 +229,7 @@
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://doloni.ua/" class="section1_logo-item"><img
                             src="img/logos/zapchastyny-ta-aksesuary/19.png" alt=""></a>
-                    <a target="_blank" href="http://mitka.gpl.ua" class="section1_logo-item"><img
+                    <a target="_blank" href="http://gpl.ua" class="section1_logo-item"><img
                             src="img/logos/zapchastyny-ta-aksesuary/20.png" alt=""></a>
                     <a target="_blank" href="http://tkdafmi.ru/" class="section1_logo-item"><img
                             src="img/logos/zapchastyny-ta-aksesuary/21.png" alt=""></a>
@@ -299,7 +299,7 @@
                             src="img/logos/avtohimia/6.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
-                    <a target="_blank" href="http://mitka.gpl.ua" class="section1_logo-item"><img
+                    <a target="_blank" href="http://gpl.ua" class="section1_logo-item"><img
                             src="img/logos/avtohimia/7.png" alt=""></a>
                     <a target="_blank" href="https://imex.ck.ua/" class="section1_logo-item"><img
                             src="img/logos/avtohimia/8.png" alt=""></a>
@@ -882,7 +882,7 @@
 
 <div class="section2">
     <div class="container">
-        <h2 class="section2__title">Про компанію GPL</h2>
+        <h2 class="section2__title">Про компанию GPL</h2>
         <div class="section2__left">
             <img class="section2__left-item" src="img/about/1.svg" alt="">
             <img class="section2__left-item" src="img/about/2.svg" alt="">
@@ -892,42 +892,30 @@
             <img class="section2__left-item" src="img/about/6.svg" alt="">
         </div>
         <div class="section2_right">
-            <p><b>GPL</b> — група компаній, яка веде діяльність з виробництва, дистрибуції та продажу мастильних
-                матеріалів,
-                технічних рідин, автозапчастин і аксесуарів на легкові та вантажні автомобілі.<br>
-                Ми працюємо в секторі бізнесу (В2В) і реалізуємо продукцію для кінцевого споживача (В2С). Наші клієнти -
-                підприємства комерційно-індустріального напрямку, агропідприємства, корпоративні клієнти, державні і
-                комунальні підприємства, мережі АЗС, станції технічного обслуговування автомобілів, столи замовлень,
-                інтернет-магазини, супермаркети, автомагазини.</p>
-            <p>Маємо власний бренд <b><a target="_blank" style="text-decoration: none; color: inherit;" href="http://vira.ua/">Vira</a></b> — український бренд під яким виготовляються технічні рідини і мастильні
-                матеріали. Виробництво розташоване в місті Полтаві. Маємо власний комплекс з виготовлення, фасування та
-                зберігання мастильних матеріалів, де продуктивність виробництва сягає 100 000 літрів на добу.</p>
-            <p>Також, ми працюємо за такими напрямками:<br>
-                - власні станції з обслуговування легкових і вантажних автомобілів;<br>
-                - мережа роздрібних автомагазинів;<br>
-                - юридичний супровід;<br>
-                - послуги з архітектури і дизайну;<br>
-                - послуги утилізації;<br>
-                - митно-брокерські послуги.</p>
+            <p><b>GPL</b> — группа компаний, которая ведет деятельность по производству, дистрибуции и продаже смазочных материалов, технических жидкостей, автозапчастей и аксессуаров на легковые и грузовые автомобили.<br>
+                Мы работаем в секторе бизнеса (В2В) и реализуем продукцию для конечного потребителя (В2С).
+				Наши клиенты — предприятия коммерческо-индустриального направления, агропредприятия, корпоративные клиенты, государственные и коммунальные предприятия, сети АЗС, станции технического обслуживания автомобилей, столы заказов, интернет-магазины, супермаркеты, автомагазины.</p>
+            <p>Имеем собственный бренд <b><a target="_blank" style="text-decoration: none; color: inherit;" href="http://vira.ua/">Vira</a></b> — украинский продукт под которым производятся технические жидкости и смазочные материалы. Производство расположено в городе Полтаве. Имеем собственный комплекс по изготовлению, фасовке и хранению смазочных материалов, где производительность достигает 100 000 литров в сутки.</p>
+            <p>Также, мы работаем по таким направлениям:<br>
+                - собственные станции по обслуживанию легковых и грузовых автомобилей;<br>
+                - сеть розничных автомагазинов;<br>
+                - юридическое сопровождение;<br>
+                - услуги по архитектуре и дизайну;<br>
+                - услуги утилизации;<br>
+                - таможенно-брокерские услуги.</p>
         </div>
         <div class="section2_text">
-            <p><b>GPL</b> — група компаній, яка веде діяльність з виробництва, дистрибуції та продажу мастильних
-                матеріалів,
-                технічних рідин, автозапчастин і аксесуарів на легкові та вантажні автомобілі.<br>
-                Ми працюємо в секторі бізнесу (В2В) і реалізуємо продукцію для кінцевого споживача (В2С). Наші клієнти -
-                підприємства комерційно-індустріального напрямку, агропідприємства, корпоративні клієнти, державні і
-                комунальні підприємства, мережі АЗС, станції технічного обслуговування автомобілів, столи замовлень,
-                інтернет-магазини, супермаркети, автомагазини. <a href="#" class="read-more">Читати більше...</a></p>
-            <p class="hidden">Маємо власний бренд <b>Vira</b> — український бренд під яким виготовляються технічні рідини і мастильні
-                матеріали. Виробництво розташоване в місті Полтаві. Маємо власний комплекс з виготовлення, фасування та
-                зберігання мастильних матеріалів, де продуктивність виробництва сягає 100 000 літрів на добу.</p>
-            <p class="hidden">Також, ми працюємо за такими напрямками:<br>
-                - власні станції з обслуговування легкових і вантажних автомобілів;<br>
-                - мережа роздрібних автомагазинів;<br>
-                - юридичний супровід;<br>
-                - послуги з архітектури і дизайну;<br>
-                - послуги утилізації;<br>
-                - митно-брокерські послуги.</p>
+            <p><b>GPL</b> — группа компаний, которая ведет деятельность по производству, дистрибуции и продаже смазочных материалов, технических жидкостей, автозапчастей и аксессуаров на легковые и грузовые автомобили.<br>
+                Мы работаем в секторе бизнеса (В2В) и реализуем продукцию для конечного потребителя (В2С).
+				Наши клиенты — предприятия коммерческо-индустриального направления, агропредприятия, корпоративные клиенты, государственные и коммунальные предприятия, сети АЗС, станции технического обслуживания автомобилей, столы заказов, интернет-магазины, супермаркеты, автомагазины.<a href="#" class="read-more">Читать больше...</a></p>
+            <p class="hidden">Имеем собственный бренд <b><a target="_blank" style="text-decoration: none; color: inherit;" href="http://vira.ua/">Vira</a></b> — украинский продукт под которым производятся технические жидкости и смазочные материалы. Производство расположено в городе Полтаве. Имеем собственный комплекс по изготовлению, фасовке и хранению смазочных материалов, где производительность достигает 100 000 литров в сутки.</p>
+            <p class="hidden">Также, мы работаем по таким направлениям:<br>
+                - собственные станции по обслуживанию легковых и грузовых автомобилей;<br>
+                - сеть розничных автомагазинов;<br>
+                - юридическое сопровождение;<br>
+                - услуги по архитектуре и дизайну;<br>
+                - услуги утилизации;<br>
+                - таможенно-брокерские услуги.</p>
         </div>
         <div class="section2__images">
             <div class="section2__images__inner-wrapper">
@@ -947,7 +935,7 @@
 </div>
 
 <div class="section3 container">
-    <h2 class="section3__title">Сертифікати</h2>
+    <h2 class="section3__title">Сертификаты</h2>
     <div class="section3__certificates">
         <a href="img/certificates/big/1.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
@@ -1039,27 +1027,27 @@
             <img src="img/certificates/small/18.png" alt=""/>
             <img src="img/certificates/small-mobile/18.png" alt=""/>
         </a>
-        <a href="img/certificates/big/7.png" class="hide-on-mob-by-visible" data-fancybox="images">
+        <a href="img/certificates/big/19.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
-            <img src="img/certificates/small/7.png" alt=""/>
-            <img src="img/certificates/small-mobile/7.png" alt=""/>
+            <img src="img/certificates/small/19.png" alt=""/>
+            <img src="img/certificates/small-mobile/19.png" alt=""/>
         </a>
-        <a href="img/certificates/big/8.png" class="hide-on-mob-by-visible" data-fancybox="images">
+        <a href="img/certificates/big/20.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
-            <img src="img/certificates/small/8.png" alt=""/>
-            <img src="img/certificates/small-mobile/8.png" alt=""/>
+            <img src="img/certificates/small/20.png" alt=""/>
+            <img src="img/certificates/small-mobile/20.png" alt=""/>
         </a>
-        <a href="img/certificates/big/15.png" class="hide-on-mob" data-fancybox="images">
+        <a href="img/certificates/big/21.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
-            <img src="img/certificates/small/15.png" alt=""/>
-            <img src="img/certificates/small-mobile/15.png" alt=""/>
+            <img src="img/certificates/small/21.png" alt=""/>
+            <img src="img/certificates/small-mobile/21.png" alt=""/>
         </a>
     </div>
 </div>
 
 <div class="section4">
     <div class="container">
-        <h2 class="section4__title">Історія компанії GPL</h2>
+        <h2 class="section4__title">История компании GPL</h2>
         <div class="section4__history">
             <div class="section4__years">
                 <a data-year="1996" href="#" class="section4__year active">1996</a>
@@ -1082,8 +1070,8 @@
         <div class="section4__desc-blocks">
             <div data-year="1996" class="section4__desc-block active">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">7 листопада 1996 року</span>
-                    <span class="section4__desc-block-subtitle">Діяльність компанії почалася з введення в експлуатацію цеху з фасування масел і змащувальних матеріалів в місті Полтава. У компанії працювало 8 осіб. Першими клієнтами були власники автомагазинів, продавці на ринках, кінцеві споживачі.</span>
+                    <span class="section4__desc-block-title">7 НОЯБРЯ 1996 ГОДА</span>
+                    <span class="section4__desc-block-subtitle">Деятельность компании началась с введения в эксплуатацию цеха по фасовке масел и смазочных материалов в городе Полтава. В компании работало 8 человек. Первыми клиентами были владельцы автомагазинов, продавцы на рынках, конечные потребители.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/1.png" alt="">
@@ -1091,8 +1079,8 @@
             </div>
             <div data-year="1999" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">ЛИПЕНЬ 1999 РОКУ</span>
-                    <span class="section4__desc-block-subtitle">Компанія виступила інвестором з будівництва Черкаського заводу автохімії - одного з найбільших підприємств України, що спеціалізується на виробництві і торгівлі рідинами технічного призначення для автомобільної промисловості. Продукцію компанії експортують в більше, ніж 50 країн світу. З 2018 року компанія припинила співпрацю з ЧЗА.</span>
+                    <span class="section4__desc-block-title">ИЮЛЬ 1999 ГОДА</span>
+                    <span class="section4__desc-block-subtitle">Компания выступила инвестором по строительству Черкасского завода автохимии - одного из крупнейших предприятий Украины, специализирующееся на производстве и торговле жидкостями технического назначения для автомобильной промышленности. Продукцию компании экспортируют в больше, чем 50 стран мира. С 2018 году компания прекратила сотрудничество с ЧЗА.</span>
                 </div>
                 <div class="section4__desc-block-right section4__desc-block-right--img-fitting y99">
                     <img src="img/years/2.png" alt="">
@@ -1100,8 +1088,8 @@
             </div>
             <div data-year="2001" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">БЕРЕЗЕНЬ 2001 РОКУ</span>
-                    <span class="section4__desc-block-subtitle">Відкриття представництва в Харкові.</span>
+                    <span class="section4__desc-block-title">МАРТ 2001 ГОДА</span>
+                    <span class="section4__desc-block-subtitle">Открытие представительства в Харькове.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/3.png" alt="">
@@ -1109,8 +1097,8 @@
             </div>
             <div data-year="2002" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">ЛЮТИЙ 2002 РОКУ</span>
-                    <span class="section4__desc-block-subtitle">Будівництво і введення в експлуатацію логістичного центру в Полтаві.</span>
+                    <span class="section4__desc-block-title">ФЕВРАЛЬ 2002 ГОДА</span>
+                    <span class="section4__desc-block-subtitle">Строительство и введение в эксплуатацию логистического центра в Полтаве.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/4.png" alt="">
@@ -1118,8 +1106,8 @@
             </div>
             <div data-year="2003" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">КВІТЕНЬ 2003 РОКУ</span>
-                    <span class="section4__desc-block-subtitle">Створення спільного підприємства з компанією Valmi - великим дистриб'ютором автокомпонентів. Початок роботи в нових регіонах - торгівля автозапчастинами в Центрально-Східній Україні.</span>
+                    <span class="section4__desc-block-title">АПРЕЛЬ 2003 ГОДА</span>
+                    <span class="section4__desc-block-subtitle">Создание совместного предприятия с компанией Valmi - крупным дистрибьютором автокомпонентов. Начало работы в новых регионах - торговля автозапчастями в Центрально-Восточной Украине.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/5.png" alt="">
@@ -1127,8 +1115,8 @@
             </div>
             <div data-year="2005" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">2005 РІК</span>
-                    <span class="section4__desc-block-subtitle">Відкриття комплексу з виробництва, фасування, зберігання мастильних матеріалів з сукупним оборотом матеріалів 30 тис.тонн/рік.</span>
+                    <span class="section4__desc-block-title">2005 ГОД</span>
+                    <span class="section4__desc-block-subtitle">Открытие комплекса по производству, фасовке, хранению смазочных материалов с совокупным оборотом материалов 30 тыс.тонн/год</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/6.png" alt="">
@@ -1136,8 +1124,8 @@
             </div>
             <div data-year="2006" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">7 КВІТНЯ 2006 РОКУ</span>
-                    <span class="section4__desc-block-subtitle">Відкриття найбільшого в Україні автоцентру під назвою «Автохімкомплект», який спеціалізується на купівлі / продажу машин, запчастин, автохімії, а також надання послуг СТО.</span>
+                    <span class="section4__desc-block-title">7 АПРЕЛЯ 2006 ГОДА</span>
+                    <span class="section4__desc-block-subtitle">Открытие самого крупного в Украине автоцентра под названием «Автохимкомплект», который специализируется на покупке/продаже машин, запчастей, автохимии, а также предоставлении услуг СТО.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/7.png" alt="">
@@ -1145,8 +1133,8 @@
             </div>
             <div data-year="2007" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">7 КВІТНЯ 2007 РОКУ</span>
-                    <span class="section4__desc-block-subtitle">Відкриття другого автоцентру «Автохімкомплект» в Кременчуці, особливістю якого є надання професійних послуг у сфері малярних робіт. </span>
+                    <span class="section4__desc-block-title">7 АПРЕЛЯ 2007 ГОДА</span>
+                    <span class="section4__desc-block-subtitle">Открытие второго автоцентра «Автохимкомплект» в Кременчуке, особенностью которого является предоставление профессиональных услуг в сфере малярных работ.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/8.png" alt="">
@@ -1154,8 +1142,8 @@
             </div>
             <div data-year="2011" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">2011 РІК</span>
-                    <span class="section4__desc-block-subtitle">Будівництво і введення в експлуатацію нового офісно-логістичного центру в Полтаві.</span>
+                    <span class="section4__desc-block-title">2011 ГОД</span>
+                    <span class="section4__desc-block-subtitle">Открытие нового офисно-логистического центра в Полтаве.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/9.png" alt="">
@@ -1163,8 +1151,9 @@
             </div>
             <div data-year="2013" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">2013 РІК</span>
-                    <span class="section4__desc-block-subtitle">Відкриття унікального комплексу з ремонту вантажних і легкових автомобілів №1 в Україні, який працює в 6 напрямках: легкове СТО; грузове СТО; кузовне СТО; токарний цех; ремонт машин преміум класу; надання послуг сертифікованого техогляду; мийка легкових і вантажних автомобілів.</span>
+                    <span class="section4__desc-block-title">2013 ГОД</span>
+                    <span class="section4__desc-block-subtitle">Открытие уникального комплекса по ремонту грузовых и легковых автомобилей №1 в Украине, который работает в 7 направлениях:
+									легковое СТО; грузове СТО; кузовное СТО; токарный цех; ремонт машин премиум класса; предоставление услуг сертифицированного техосмотра; мойка легковых и грузовых автомобилей.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/10.png" alt="">
@@ -1172,8 +1161,8 @@
             </div>
             <div data-year="2014" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">2014 РІК</span>
-                    <span class="section4__desc-block-subtitle">Відкриття офісно-логістичного центру в Борисполі.</span>
+                    <span class="section4__desc-block-title">2014 ГОД</span>
+                    <span class="section4__desc-block-subtitle">Открытие офисно-логистического центра в Борисполе.</span>
                 </div>
                 <div class="section4__desc-block-right">
                     <img src="img/years/11.png" alt="">
@@ -1181,8 +1170,8 @@
             </div>
             <div data-year="2020" class="section4__desc-block">
                 <div class="section4__desc-block-left">
-                    <span class="section4__desc-block-title">2020 РІК</span>
-                    <span class="section4__desc-block-subtitle">На даний момент компанія фокусує свою увагу на сталому розвитку персоналу, пошуку нових форм і методів роботи та співпраці з українськими і зарубіжними партнерами.</span>
+                    <span class="section4__desc-block-title">2020 ГОД</span>
+                    <span class="section4__desc-block-subtitle">На данный момент компания фокусирует свое внимание на устойчивом развитии персонала, поиске новых форм и методов работы, а также сотрудничестве с украинскими и зарубежными партнерами.</span>
                 </div>
                 <div class="section4__desc-block-right section4__desc-block-right--img-fitting y2020"
                      style="background: #25252B">
@@ -1197,27 +1186,27 @@
     <div id="map"></div>
     <div class="wrap container">
         <div class="block">
-            <h2>Організовуємо доставку <br/>по всій території України</h2>
+            <h2>Организовываем доставку <br/>по всей территории Украины</h2>
 
-            <h4>Адреси логістичних центрів:</h4>
+            <h4>Адреса логистических центров:</h4>
             <div class="item poltava">
-                <div class="street">м. Полтава, <span class="nowrap">вул. Половки, 70 Б</span></div>
+                <div class="street">г. Полтава, <span class="nowrap">ул. Половки, 70 Б</span></div>
             </div>
 
             <div class="item kremenchuk">
-                <div class="street">м. Кременчук, <span class="nowrap">просп. Лесі Українки, 119</span></div>
+                <div class="street">г. Кременчуг, <span class="nowrap">просп. Леси Украинки, 119</span></div>
             </div>
 
             <div class="item harkiv">
-                <div class="street">м. Харків, <span class="nowrap">просп. Лозовеньковский, 3</span></div>
+                <div class="street">г. Харьков, <span class="nowrap">просп. Лозовенковский, 3</span></div>
             </div>
 
             <div class="item borispol">
-                <div class="street">м. Бориспіль, <span class="nowrap">вул. Запорізька, 38а</span></div>
+                <div class="street">г. Борисполь, <span class="nowrap">ул. Запорожская, 38а</span></div>
             </div>
 
             <div class="item ternopol">
-                <div class="street">c. Острів, Тернопільська область, <br/><span class="nowrap">вул. Промислова 1</span></div>
+                <div class="street">c. Остров, Тернопольська область, <br/><span class="nowrap">ул. Промышленная 3</span></div>
             </div>
 
         </div>
@@ -1225,7 +1214,7 @@
 </div>
 
 
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyBnhSDeCqIAtUPpGe9IdXGpeodD832HkBU&language=uk"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyBnhSDeCqIAtUPpGe9IdXGpeodD832HkBU&language=ru"></script>
 <script type="text/javascript">
     var egglabs = new google.maps.LatLng(49.590959, 34.4878434);
 
@@ -1333,27 +1322,27 @@
     var contentString = '<div class="block-info"><div class="block-info-window">' +
         '<div class="image" style="background:url(images/h11.jpg) center; background-size:cover;"></div>' +
         '<h2>Полтава</h2>' +
-        '<span><a href="https://goo.gl/maps/KWaQLyf9Tsp" target="_blank">вул. Половки, 70 Б</a></span><a href="tel:0 (800) 755 780">0 (800) 755 780</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
+        '<span><a href="https://goo.gl/maps/KWaQLyf9Tsp" target="_blank">ул. Половки, 70 Б</a></span><a href="tel:0 (800) 755 780">0 (800) 755 780</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
 
     var contentString1 = '<div class="block-info"><div class="block-info-window">' +
         '<div class="image" style="background:url(images/2/2.JPG) center; background-size:cover;"></div>' +
-        '<h2>Кременчук</h2>' +
-        '<span><a href="https://goo.gl/maps/F5bb2e5LLmP2" target="_blank">просп. Лесі Українки, 119</a></span><a href="tel:+38 (0532) 65-50-36">+38 (0532) 65-50-36</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
+        '<h2>Кременчуг</h2>' +
+        '<span><a href="https://goo.gl/maps/F5bb2e5LLmP2" target="_blank">просп. Леси Украинки, 119</a></span><a href="tel:+38 (0532) 65-50-36">+38 (0532) 65-50-36</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
 
     var contentString2 = '<div class="block-info"><div class="block-info-window">' +
         '<div class="image" style="background:url(images/map2.jpg) center; background-size:cover;"></div>' +
-        '<h2>Харків</h2>' +
+        '<h2>Харьков</h2>' +
         '<span><a href="https://goo.gl/maps/uPNfKwBZATP2" target="_blank">просп. Лозовеньковский, 3</a></span><a href="tel:0 (800) 756 996">0 (800) 756 996</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
 
     var contentString3 = '<div class="block-info"><div class="block-info-window">' +
         '<div class="image" style="background:url(images/map1.JPG) center; background-size:cover;"></div>' +
-        '<h2>Бориспіль</h2>' +
-        '<span><a href="https://goo.gl/maps/6CSEK3wizHH2" target="_blank">вул. Запорізька, 38а</a></span><a href="tel:0 (800) 752 782">0 (800) 752 782</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
+        '<h2>Борисполь</h2>' +
+        '<span><a href="https://goo.gl/maps/6CSEK3wizHH2" target="_blank">ул. Запорожская, 38а</a></span><a href="tel:0 (800) 752 782">0 (800) 752 782</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
 
     var contentString4 = '<div class="block-info"><div class="block-info-window">' +
         '<div class="image" style="background:url(images/map100.png) center; background-size:cover;"></div>' +
-        '<h2>Тернопіль</h2>' +
-        '<span><a href="https://bit.ly/2Om2GJo" target="_blank">вул. Промислова 1, c. Острів, Тернопільська область</a></span><a href="tel:+0 (800) 755 385">0 (800) 755 385</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
+        '<h2>Тернополь</h2>' +
+        '<span><a href="https://goo.gl/maps/GAhh5gkKkNqsj6SL8" target="_blank">ул. Промышленная 3, c. Остров, Тернопольська область</a></span><a href="tel:+0 (800) 755 385">0 (800) 755 385</a><a href="mailto:info@gpl.ua">info@gpl.ua</a></div></div>';
 
     var infowindow = new google.maps.InfoWindow({});
 
@@ -1407,7 +1396,7 @@
 
 <div class="footer" id="footer">
     <div class="section-contacts container">
-        <h2 class="section-contacts__title">Контакти</h2>
+        <h2 class="section-contacts__title">Контакты</h2>
         <div class="section-contacts__inner-wrapper">
             <div class="section-contacts__left">
                 <a href="tel:+380532655036" class="section-contacts__left-item section-contacts__left-item--phone"><img
@@ -1418,19 +1407,21 @@
                         src="img/mail-icon.png" alt=""> info@gpl.ua</a>
             </div>
             <div class="section-contacts__center">
-                <span class="section-contacts__center-title">З питань співпраці та інших<br>
-                    виникших питань, напишіть нам:</span>
-                <a data-fancybox data-src="#hidden-content" href="javascript:;" class="section-contacts__center-button">Надіслати
-                    повідомлення</a>
+                <span class="section-contacts__center-title">По вопросам сотрудничества и другим<br>
+                    возникшим вопросам - напишите нам:</span>
+                <a data-fancybox data-src="#hidden-content" href="javascript:;" class="section-contacts__center-button">Отправить сообщение</a>
             </div>
             <div class="section-contacts__right">
-                <span class="section-contacts__right-title">Ми в соціальних мережах:</span>
+                <span class="section-contacts__right-title">Мы в социальных сетях:</span>
                 <div class="section-contacts__right-socials-wrapper">
-                    <a href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.svg" alt=""></a>
-                    <a href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.svg"
-                                                                                            alt=""></a>
+                    <a target="_blank" href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.svg" alt=""></a>
+                    <a target="_blank" href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.svg" alt=""></a>
+                    <a target="_blank" href="https://www.instagram.com/gpl.ukraine/"><img src="img/inst-icon.svg" alt=""></a>
                 </div>
-                <a href="https://gpl.ua/career.php" class="section-contacts__right-link">Карьера</a>
+                <div class="section-contacts__links-wrapper">
+                    <a href="https://gpl.ua/career.php" class="section-contacts__right-link">Карьера</a>
+                    <a target="_blank" href="https://corp.gpl.ua/" class="section-contacts__right-link">Corp</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1438,20 +1429,20 @@
         <div class="container">
             <img src="img/logo.svg" alt="">
             <span class="footer__copyright">Copyright © 1996 - 2020 LLC GPL</span>
-            <a href="https://gpl.ua/1.pdf" target="_blank" class="footer__download-button">Завантажити презентацію</a>
+            <a href="https://gpl.ua/1.pdf" target="_blank" class="footer__download-button">Скачать презентацию</a>
         </div>
     </div>
 </div>
 <div style="display: none;" id="hidden-content" class="hidden-content">
-    <span class="hidden-content__title">Залиште контактні дані</span>
-    <span class="hidden-content__subtitle">І ми обов'язково зв'яжемося з Вами найближчим часом</span>
+    <span class="hidden-content__title">Оставьте контактные данные</span>
+    <span class="hidden-content__subtitle">И мы обязательно свяжемся с Вами в ближайшее время</span>
     <form action="form.php" method="post" class="hidden-content__form">
-        <input type="text" name="name" placeholder="Ваше ім'я*" required="">
+        <input type="text" name="name" placeholder="Ваше имя*" required="">
         <input type="text" name="phone" placeholder="Ваш телефон*" required="">
-        <textarea name="comment" cols="40" rows="3" placeholder="Напишіть цікавляче Вас питання"></textarea>
+        <textarea name="comment" cols="40" rows="3" placeholder="Напишите интересующий вас вопрос"></textarea>
         <input type="hidden" name="info" value="">
         <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
-        <input type="submit" value="ВІДПРАВИТИ ПОВІДОМЛЕННЯ" class="submit">
+        <input type="submit" value="ОТПРАВИТЬ СООБЩЕНИЕ" class="submit">
     </form>
 </div>
 <!--footer scripts start-->

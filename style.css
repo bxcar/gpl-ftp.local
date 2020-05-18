@@ -591,7 +591,11 @@ a img {
 
 .block-2 a.mail {
 	font-weight: 400;
-    font-size: 15px;
+    font-size: 16px;
+}
+
+.block-2 a strong {
+    font-weight: bold;
 }
 
 .block-2 .text {
@@ -2367,19 +2371,23 @@ div.gm-style > div > div > div > div > div > div:nth-child(3) {
 
 
 @media screen and (min-width:480px) {
-    .b2c .block-2.block-8.wrap > .content > .row {
+    .b2c .block-2.block-8.wrap > .content > .row,
+    .b2c-custom.block-2.block-8.wrap > .content > .row {
         display: flex;
     }
 
-    .b2c .block-2.block-8.wrap > .content > .row > .col-1 {
+    .b2c .block-2.block-8.wrap > .content > .row > .col-1,
+    .b2c-custom.block-2.block-8.wrap > .content > .row > .col-1 {
         margin-right: 66px;
     }
 
-    .b2c .block-2.block-8.wrap > .content > .row > .col-1 > img {
+    .b2c .block-2.block-8.wrap > .content > .row > .col-1 > img,
+    .b2c-custom.block-2.block-8.wrap > .content > .row > .col-1 > img {
         margin-top: 3px !important;
     }
 
-    .b2c .block-2.block-8.wrap > .content > .row > .col-4:last-child {
+    .b2c .block-2.block-8.wrap > .content > .row > .col-4:last-child,
+    .b2c-custom.block-2.block-8.wrap > .content > .row > .col-4:last-child {
        display: none;
     }
 }

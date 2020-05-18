@@ -68,8 +68,8 @@
                         <div class="col col-5">
                             <h2>м. Бориспіль</h2>
                             <p><a href="https://goo.gl/maps/yuzhgewL8A72" target="_blank" style="padding: 0;">вул. Запорізька, 38а</a></p>
-                            <a href="tel:+380443313940" class="phone">+38 (044) <span>331-39-40</span></a>
-                            <a href="tel:+380663144312" class="phone">+38 (066) <span>314-43-12</span></a>
+                            <a href="tel:0 (800) 752 782" class="phone">0 (800)  <span>752 782</span></a>
+                          
 
                         </div>
 

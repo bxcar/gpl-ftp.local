@@ -87,9 +87,9 @@
 								</ul> 
 								
 								<div class="lang">
-									<a href="/ru.php">RU</a>
-									<a href="/">UA</a>
-									<a href="/en.php">EN</a>
+									<a href="/ru.php?l=selected">RU</a>
+									<a href="/?l=selected">UA</a>
+									<a href="/en.php?l=selected">EN</a>
 								</div>
 							</div>
 						</div>
