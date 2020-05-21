@@ -1502,25 +1502,27 @@
 <script src="js/main-gpl.js"></script>
 <!--footer scripts end-->
 <script>
-    $(".item.poltava").click(function () {
-        google.maps.event.trigger(marker[0], 'click', {});
-    });
+    if($(window).width() >= 960) {
+        $(".item.poltava").click(function () {
+            google.maps.event.trigger(marker[0], 'click', {});
+        });
 
-    $(".item.kremenchuk").click(function () {
-        google.maps.event.trigger(marker[1], 'click', {});
-    });
+        $(".item.kremenchuk").click(function () {
+            google.maps.event.trigger(marker[1], 'click', {});
+        });
 
-    $(".item.harkiv").click(function () {
-        google.maps.event.trigger(marker[2], 'click', {});
-    });
+        $(".item.harkiv").click(function () {
+            google.maps.event.trigger(marker[2], 'click', {});
+        });
 
-    $(".item.borispol").click(function () {
-        google.maps.event.trigger(marker[3], 'click', {});
-    });
+        $(".item.borispol").click(function () {
+            google.maps.event.trigger(marker[3], 'click', {});
+        });
 
-    $(".item.ternopol").click(function () {
-        google.maps.event.trigger(marker[4], 'click', {});
-    });
+        $(".item.ternopol").click(function () {
+            google.maps.event.trigger(marker[4], 'click', {});
+        });
+    }
 </script>
 <div class="menu-burger-wrapper">
     <div id="overlay">

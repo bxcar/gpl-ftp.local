@@ -1645,6 +1645,10 @@ header {
         text-align: center;
     }
 
+    div .section1_logo-item img {
+        max-width: 100%;
+    }
+
     div[data-title="zapchastyny"] .section1_logo-item,
     div[data-title="mastylni"] .section1_logo-item,
     div[data-title="avtohimia"] .section1_logo-item,
@@ -1953,6 +1957,26 @@ header {
 
     .section1__logos-inner-wrapper-separator--akumulyatory {
         width: 300px;
+    }
+
+    .section1__logos-wrapper--mob-3 .section1_logo-item {
+        text-align: center;
+    }
+
+
+    .section1__logos-wrapper--mob-3 div[data-title="zapchastyny"] .section1_logo-item,
+    .section1__logos-wrapper--mob-3 div[data-title="mastylni"] .section1_logo-item,
+    .section1__logos-wrapper--mob-3 div[data-title="avtohimia"] .section1_logo-item,
+    .section1__logos-wrapper--mob-3 div[data-title="filtry"] .section1_logo-item {
+        width: 105px;
+    }
+
+    .section1__logos-wrapper--mob-3 div[data-title="aerozoli"] .section1_logo-item {
+        width: 105px;
+    }
+
+    .section1__logos-wrapper--mob-3 div[data-title="avtoshiny"] .section1_logo-item {
+        width: 105px;
     }
 }
 
