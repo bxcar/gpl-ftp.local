@@ -998,6 +998,17 @@ header {
 }
 
 @media screen and (max-width: 1170px) and (min-width: 960px){
+    .section2__left-item--6 {
+        position: relative;
+        top: 5px;
+    }
+
+    .section2__left-item--4 {
+        padding-left: 3%;
+        padding-right: 3%;
+        box-sizing: border-box;
+    }
+
     .container {
         width: 100%;
         padding-left: 24px;
@@ -1442,10 +1453,16 @@ header {
     .section4__desc-block-left {
         padding: 28px;
         box-sizing: border-box;
+        width: 100%;
+    }
+
+    .section4__desc-block-title {
+        text-align: center;
     }
 
     .section4__desc-block-subtitle {
         width: auto;
+        text-align: center;
     }
 
     .section4__desc-block {
@@ -1602,6 +1619,22 @@ header {
 }
 
 @media screen and (max-width: 959px) and (min-width: 768px){
+    .section2__left-item--4-mob {
+        position: relative;
+        top: 2px;
+        right: 5.3%;
+    }
+
+    .section2__left-item--2-mob {
+        position: relative;
+        right: 1.5%;
+    }
+
+    .section2__left-item--6-mob {
+        position: relative;
+        top: 13px;
+    }
+
     #myVideo {
         display: block;
     }

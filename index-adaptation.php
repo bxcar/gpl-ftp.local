@@ -913,7 +913,7 @@
             <img class="section2__left-item" src="img/about/3.svg" alt="">
             <img class="section2__left-item section2__left-item--4" src="img/about/4.svg" alt="">
             <img class="section2__left-item" src="img/about/5.svg" style="/*margin-bottom: 73px;*/margin-bottom: 12.5%;" alt="">
-            <img class="section2__left-item" src="img/about/6.svg" alt="">
+            <img class="section2__left-item section2__left-item--6" src="img/about/6.svg" alt="">
         </div>
         <div class="section2_right">
             <p><b>GPL</b> — група компаній, яка веде діяльність з виробництва, дистрибуції та продажу мастильних
@@ -956,15 +956,15 @@
         <div class="section2__images">
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/1.svg" alt="">
-                <img class="section2__left-item" src="img/about/2.svg" alt="">
+                <img class="section2__left-item section2__left-item--2-mob" src="img/about/2.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/3.svg" alt="">
-                <img class="section2__left-item" src="img/about/4.svg" alt="">
+                <img class="section2__left-item section2__left-item--4-mob" src="img/about/4.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/5.svg" alt="">
-                <img class="section2__left-item section2__left-item--mg-fix" src="img/about/6.svg" alt="">
+                <img class="section2__left-item section2__left-item--mg-fix section2__left-item--6-mob" src="img/about/6.svg" alt="">
             </div>
         </div>
     </div>
