@@ -69,7 +69,8 @@ ul {
     font-size: 14px;
     line-height: 19px;
     color: #25252b;
-    text-decoration: none
+    text-decoration: none;
+    white-space: nowrap;
 }
 
 .section-contacts__left-item img {
@@ -78,6 +79,10 @@ ul {
 
 .section-contacts__left-item--email {
     margin-bottom: 0
+}
+
+.section-contacts__center {
+    margin-top: auto;
 }
 
 .section-contacts__center-title {
@@ -1001,6 +1006,33 @@ header {
 
 .br-768-959 {
     display: none;
+}
+
+@media screen and (min-width: 768px){
+    .section-contacts__left {
+        width: 160px;
+    }
+
+    .section-contacts__center {
+        width: 303px;
+    }
+
+    .section-contacts__right {
+        width: 228px;
+    }
+
+    .footer__bottom .container > img:first-child {
+        width: 105px;
+        margin-right: 55px;
+    }
+
+    .footer__copyright {
+        width: 303px;
+    }
+
+    .footer__download-button {
+        width: 228px;
+    }
 }
 
 @media screen and (max-width: 1170px) and (min-width: 960px){
