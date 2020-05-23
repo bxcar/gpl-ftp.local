@@ -1,6 +1,6 @@
 </div>
 <link rel="stylesheet" href="css/new-footer-on-old-pages.css">
-<div class="footer-wrapper-n">
+<div class="footer-wrapper-n" id="cont">
     <div class="footer-n" id="footer">
         <div class="section-contacts container">
             <h2 class="section-contacts__title">Контакти</h2>
@@ -125,7 +125,7 @@
 							<div class="row">
 								<h2>Меню</h2>
 								<ul>
-									<li><a href="/">Головна</a></li>
+									<li><a href="/?l=selected">Головна</a></li>
 									<li><a href="/b2b-ua.php">B2B</a></li>
 									<li><a href="/b2c-ua.php">B2C</a></li>
 									<li><a href="/services-ua.php">Послуги</a></li>

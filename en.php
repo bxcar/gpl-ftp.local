@@ -95,13 +95,14 @@
             </div>
             <a style="text-decoration: none;" class="header__menu-icon open-popup" href="#menu-popup">
                 <img src="img/burger-icon.png">
+                <img src="img/burger-icon-big.svg" class="header__menu-icon--img-hidden">
             </a>
         </div>
     </div>
     <div class="container">
         <div class="header__big-part">
             <h1 class="header__title">GPL The Future</h1>
-            <span class="header__subtitle">GPL operates in the production, distribution and sale of oils, industrial fluids and auto parts for cars and trucks.</span>
+            <span class="header__subtitle">GPL operates in the production, distribution and sale of oils, industrial fluids<br class="br-768-959"> and auto parts for cars and trucks.</span>
             <a data-fancybox href="https://youtu.be/rjntk3SOE0c" class="header__video-button">Watch the video</a>
         </div>
     </div>
@@ -173,6 +174,8 @@
                     class="section1__title-img-active"></div>
             Tires</a>
     </div>
+    <?php include "logos-5-per-row.php"?>
+    <?php include "logos-4-per-row.php"?>
     <div class="section1__logos-wrapper section1__logos-wrapper--desktop">
         <div class="section1__logos">
             <div data-title="zapchastyny" class="section1__logos-inner-wrapper">
@@ -880,8 +883,8 @@
             <img class="section2__left-item" src="img/about/2.svg" alt="">
             <img class="section2__left-item" src="img/about/3.svg" alt="">
             <img class="section2__left-item section2__left-item--4" src="img/about/4.svg" alt="">
-            <img class="section2__left-item" src="img/about/5.svg" style="margin-bottom: 73px;" alt="">
-            <img class="section2__left-item" src="img/about/6.svg" alt="">
+            <img class="section2__left-item" src="img/about/5.svg" style="/*margin-bottom: 73px;*/margin-bottom: 12.5%;" alt="">
+            <img class="section2__left-item section2__left-item--6" src="img/about/6.svg" alt="">
         </div>
         <div class="section2_right">
             <p><b>GPL</b> — is a group of companies that carries out activities in production, distribution and selling the oils as well as technical oils, spare parts and accessories for the light vehicles and trucks.<br>
@@ -910,15 +913,15 @@
         <div class="section2__images">
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/1.svg" alt="">
-                <img class="section2__left-item" src="img/about/2.svg" alt="">
+                <img class="section2__left-item section2__left-item--2-mob" src="img/about/2.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/3.svg" alt="">
-                <img class="section2__left-item" src="img/about/4.svg" alt="">
+                <img class="section2__left-item section2__left-item--4-mob" src="img/about/4.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/5.svg" alt="">
-                <img class="section2__left-item section2__left-item--mg-fix" src="img/about/6.svg" alt="">
+                <img class="section2__left-item section2__left-item--mg-fix section2__left-item--6-mob" src="img/about/6.svg" alt="">
             </div>
         </div>
     </div>
@@ -1028,6 +1031,21 @@
             <img src="img/certificates/small-mobile/20.png" alt=""/>
         </a>
         <a href="img/certificates/big/21.png" data-fancybox="images">
+            <span class="section3__certificates_item-bg"></span>
+            <img src="img/certificates/small/21.png" alt=""/>
+            <img src="img/certificates/small-mobile/21.png" alt=""/>
+        </a>
+        <a class="hidden" href="img/certificates/big/21.png" data-fancybox="images">
+            <span class="section3__certificates_item-bg"></span>
+            <img src="img/certificates/small/21.png" alt=""/>
+            <img src="img/certificates/small-mobile/21.png" alt=""/>
+        </a>
+        <a class="hidden" href="img/certificates/big/21.png" data-fancybox="images">
+            <span class="section3__certificates_item-bg"></span>
+            <img src="img/certificates/small/21.png" alt=""/>
+            <img src="img/certificates/small-mobile/21.png" alt=""/>
+        </a>
+        <a class="hidden" href="img/certificates/big/21.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
             <img src="img/certificates/small/21.png" alt=""/>
             <img src="img/certificates/small-mobile/21.png" alt=""/>
@@ -1440,25 +1458,27 @@
 <script src="js/main-gpl.js"></script>
 <!--footer scripts end-->
 <script>
-    $(".item.poltava").click(function () {
-        google.maps.event.trigger(marker[0], 'click', {});
-    });
+    if($(window).width() >= 960) {
+        $(".item.poltava").click(function () {
+            google.maps.event.trigger(marker[0], 'click', {});
+        });
 
-    $(".item.kremenchuk").click(function () {
-        google.maps.event.trigger(marker[1], 'click', {});
-    });
+        $(".item.kremenchuk").click(function () {
+            google.maps.event.trigger(marker[1], 'click', {});
+        });
 
-    $(".item.harkiv").click(function () {
-        google.maps.event.trigger(marker[2], 'click', {});
-    });
+        $(".item.harkiv").click(function () {
+            google.maps.event.trigger(marker[2], 'click', {});
+        });
 
-    $(".item.borispol").click(function () {
-        google.maps.event.trigger(marker[3], 'click', {});
-    });
+        $(".item.borispol").click(function () {
+            google.maps.event.trigger(marker[3], 'click', {});
+        });
 
-    $(".item.ternopol").click(function () {
-        google.maps.event.trigger(marker[4], 'click', {});
-    });
+        $(".item.ternopol").click(function () {
+            google.maps.event.trigger(marker[4], 'click', {});
+        });
+    }
 </script>
 <div class="menu-burger-wrapper">
     <div id="overlay">

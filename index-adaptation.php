@@ -48,12 +48,12 @@
     <link rel="stylesheet" href="css/owlcarousel/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owlcarousel/owl.theme.default.min.css">
     <link rel="stylesheet" href="style-font-for-map-on-new-main-page.css">
-    <link rel="stylesheet" href="css/main-gpl-temp-adaptation.css">
+    <link rel="stylesheet" href="css/main-gpl.css">
     <link rel="stylesheet" href="css/map-styles-for-new-main.css">
     <link rel="stylesheet" href="css/style-for-burger-menu.css">
     <link rel="stylesheet" href="css/pda-for-burger-menu.css">
     <!-- Facebook Pixel Code -->
-    <!--<script>
+    <script>
         !function(f,b,e,v,n,t,s)
         {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
             n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -69,7 +69,7 @@
         <img height="1" width="1"
              src="https://www.facebook.com/tr?id=548553472528714&ev=PageView
 	&noscript=1"/>
-    </noscript>-->
+    </noscript>
     <!-- End Facebook Pixel Code -->
     <!--header styles end-->
 </head>

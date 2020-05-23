@@ -52,25 +52,25 @@
     <link rel="stylesheet" href="css/map-styles-for-new-main.css">
     <link rel="stylesheet" href="css/style-for-burger-menu.css">
     <link rel="stylesheet" href="css/pda-for-burger-menu.css">
-	<!-- Facebook Pixel Code -->
-	<script>
-	!function(f,b,e,v,n,t,s)
-	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];
-	s.parentNode.insertBefore(t,s)}(window,document,'script',
-	'https://connect.facebook.net/en_US/fbevents.js');
- 	fbq('init', '548553472528714');
-	fbq('track', 'PageView');
-	</script>
-	<noscript>
- 	<img height="1" width="1"
-	src="https://www.facebook.com/tr?id=548553472528714&ev=PageView
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window,document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '548553472528714');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1"
+             src="https://www.facebook.com/tr?id=548553472528714&ev=PageView
 	&noscript=1"/>
-	</noscript>
-	<!-- End Facebook Pixel Code -->
+    </noscript>
+    <!-- End Facebook Pixel Code -->
     <!--header styles end-->
 </head>
 <body>
@@ -108,15 +108,16 @@
             </div>
             <div class="header__language">
                 <a href="/" class="header__language-item"><span class="lng-images"><span class="ua-blue"></span><span
-                                class="ua-yellow"></span></span>UA</a>
+                            class="ua-yellow"></span></span>UA</a>
                 <a href="https://gpl.ua/ru.php?l=selected" class="header__language-item header__language-item--inactive"><span
-                            class="lng-images"><span
-                                class="ru-white"></span><span class="ru-blue"></span><span class="ru-red"></span></span>RU</a>
+                        class="lng-images"><span
+                            class="ru-white"></span><span class="ru-blue"></span><span class="ru-red"></span></span>RU</a>
                 <a href="https://gpl.ua/en.php?l=selected" class="header__language-item header__language-item--inactive"><span
-                            class="lng-images lng-images--eng"><img src="img/eng-language-icon.png" alt=""></span>EN</a>
+                        class="lng-images lng-images--eng"><img src="img/eng-language-icon.png" alt=""></span>EN</a>
             </div>
             <a style="text-decoration: none;" class="header__menu-icon open-popup" href="#menu-popup">
                 <img src="img/burger-icon.png">
+                <img src="img/burger-icon-big.svg" class="header__menu-icon--img-hidden">
             </a>
         </div>
     </div>
@@ -133,261 +134,263 @@
     <div class="section1__titles">
         <a data-title="zapchastyny" title="Запчастини та аксесуари" href="#" class="section1__title">
             <div><img src="img/logos/icons/zapchastyny.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/zapchastyny-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/zapchastyny-hover.png"
+                    class="section1__title-img-active"></div>
             Запчастини
             та аксесуари</a>
         <a data-title="mastylni" title="Мастильні матеріали" href="#" class="section1__title active">
             <div><img src="img/logos/icons/mastylni.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/mastylni-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/mastylni-hover.png"
+                    class="section1__title-img-active"></div>
             Мастильні
             матеріали</a>
         <a data-title="avtohimia" title="Автохімія" href="#" class="section1__title">
             <div><img src="img/logos/icons/avtohimia.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/avtohimia-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/avtohimia-hover.png"
+                    class="section1__title-img-active"></div>
             Автохімія</a>
         <a data-title="aerozoli" title="Аерозольні фарби" href="#" class="section1__title">
             <div><img src="img/logos/icons/aerozoli.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/aerozoli-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/aerozoli-hover.png"
+                    class="section1__title-img-active"></div>
             Аерозольні
             фарби</a>
         <a data-title="filtry" title="Фільтри" href="#" class="section1__title">
             <div><img src="img/logos/icons/filtry.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/filtry-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/filtry-hover.png"
+                    class="section1__title-img-active"></div>
             Фільтри</a>
         <a data-title="galmivi" title="Гальмівні колодки" href="#" class="section1__title">
             <div><img src="img/logos/icons/galmivi.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/galmivi-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/galmivi-hover.png"
+                    class="section1__title-img-active"></div>
             Гальмівні
             колодки</a>
         <a data-title="vyhlopni" title="Вихлопні системи" href="#"
            class="section1__title desk-display-none-section1-titles">
             <div><img src="img/logos/icons/vyhlopni.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/vyhlopni-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/vyhlopni-hover.png"
+                    class="section1__title-img-active"></div>
             Вихлопні
             системи</a>
         <a data-title="akumulyatory" title="Акумулятори" href="#"
            class="section1__title desk-display-none-section1-titles">
             <div><img src="img/logos/icons/akumulyatory.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/akumulyatory-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/akumulyatory-hover.png"
+                    class="section1__title-img-active"></div>
             Акумулятори</a>
         <a data-title="avtoshiny" title="Автошини" href="#" class="section1__title desk-display-none-section1-titles">
             <div><img src="img/logos/icons/avtoshiny.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/avtoshiny-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/avtoshiny-hover.png"
+                    class="section1__title-img-active"></div>
             Автошини</a>
     </div>
     <div class="section1__titles2">
         <a data-title="vyhlopni" title="Вихлопні системи" href="#" class="section1__title">
             <div><img src="img/logos/icons/vyhlopni.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/vyhlopni-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/vyhlopni-hover.png"
+                    class="section1__title-img-active"></div>
             Вихлопні
             системи</a>
         <a data-title="akumulyatory" title="Акумулятори" href="#" class="section1__title">
             <div><img src="img/logos/icons/akumulyatory.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/akumulyatory-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/akumulyatory-hover.png"
+                    class="section1__title-img-active"></div>
             Акумулятори</a>
         <a data-title="avtoshiny" title="Автошини" href="#" class="section1__title">
             <div><img src="img/logos/icons/avtoshiny.png" alt="" class="section1__title-img-inactive"><img
-                        src="img/logos/icons/avtoshiny-hover.png"
-                        class="section1__title-img-active"></div>
+                    src="img/logos/icons/avtoshiny-hover.png"
+                    class="section1__title-img-active"></div>
             Автошини</a>
     </div>
+    <?php include "logos-5-per-row.php"?>
+    <?php include "logos-4-per-row.php"?>
     <div class="section1__logos-wrapper section1__logos-wrapper--desktop">
         <div class="section1__logos">
             <div data-title="zapchastyny" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://fenox.com/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/1.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/1.png" alt=""></a>
                     <a target="_blank" href="https://www.caffaro.pl/ru" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/2.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/2.png" alt=""></a>
                     <a target="_blank" href="http://www.av-autotechnik.ru/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/3.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/3.png" alt=""></a>
                     <a target="_blank" href="https://www.brisk.ru/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/4.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/4.png" alt=""></a>
                     <a target="_blank" href="https://baldwinfilters.com.ua/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/5.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/5.png" alt=""></a>
                     <a target="_blank" href="https://www.fram-europe.com/ru/index.html" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/6.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/6.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://wixeurope.com/ua" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/7.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/7.png" alt=""></a>
                     <a target="_blank" href="https://www.brisk.ru/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/8.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/8.png" alt=""></a>
                     <a target="_blank" href="http://alpha-filter.com/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/9.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/9.png" alt=""></a>
                     <a target="_blank" href="http://www.rfolg.com.ua/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/10.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/10.png" alt=""></a>
                     <a target="_blank" href="http://www.lavita.ua/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/11.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/11.png" alt=""></a>
                     <a target="_blank" href="http://www.wokingbrakes.com/home" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/12.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/12.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://www.ertcompany.com/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/13.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/13.png" alt=""></a>
                     <a target="_blank" href="http://www.lsa-automotive.com/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/14.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/14.png" alt=""></a>
                     <a target="_blank" href="http://www.balrt.ru/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/15.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/15.png" alt=""></a>
                     <a target="_blank" href="http://autotechgroup.cz/ru/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/16.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/16.png" alt=""></a>
                     <a target="_blank" href="https://www.al-ko.com/ru" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/17.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/17.png" alt=""></a>
                     <a target="_blank" href="https://www.gknautomotive.com/en/AftermarketMotorsport/"
                        class="section1_logo-item"><img src="img/logos/zapchastyny-ta-aksesuary/18.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://doloni.ua/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/19.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/19.png" alt=""></a>
                     <a target="_blank" href="http://gpl.ua" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/20.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/20.png" alt=""></a>
                     <a target="_blank" href="http://tkdafmi.ru/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/21.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/21.png" alt=""></a>
                     <a target="_blank" href="https://www.tedgum.pl/ru/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/22.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/22.png" alt=""></a>
                     <a target="_blank" href="https://tomexbrakes.pl/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/23.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/23.png" alt=""></a>
                     <a target="_blank" href="https://auto-elegant.com/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/24.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/24.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://www.nuovatecnodelta.it/hydraulic-spares-for-brakes-clutch-parts.asp"
                        class="section1_logo-item"><img src="img/logos/zapchastyny-ta-aksesuary/25.png" alt=""></a>
                     <a target="_blank" href="https://www.dello.de/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/26.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/26.png" alt=""></a>
                     <a target="_blank" href="#" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/27.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/27.png" alt=""></a>
                     <a target="_blank" href="https://www.optibelt.com/de/home/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/28.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/28.png" alt=""></a>
                     <a target="_blank" href="https://www.polmostrow.pl/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/29.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/29.png" alt=""></a>
                     <a target="_blank" href="https://www.brisk.ru/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/30.png" style="margin-left: 25px;" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/30.png" style="margin-left: 25px;" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="https://utas.org.ua/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/31.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/31.png" alt=""></a>
                     <a target="_blank" href="http://saturnavto.com.ua/" class="section1_logo-item"><img
-                                src="img/logos/zapchastyny-ta-aksesuary/32.png" alt=""></a>
+                            src="img/logos/zapchastyny-ta-aksesuary/32.png" alt=""></a>
                 </div>
             </div>
             <div data-title="mastylni" class="section1__logos-inner-wrapper active">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://mol-ukraine.com.ua/ua/" class="section1_logo-item"><img
-                                src="img/logos/mastylni-materialy/mol.png" alt=""></a>
+                            src="img/logos/mastylni-materialy/mol.png" alt=""></a>
                     <a target="_blank" href="https://vira.ua/" class="section1_logo-item"><img
-                                src="img/logos/mastylni-materialy/vira.png" alt=""></a>
+                            src="img/logos/mastylni-materialy/vira.png" alt=""></a>
                     <a target="_blank" href="https://www.total.ua/" class="section1_logo-item"><img
-                                src="img/logos/mastylni-materialy/total.png" alt=""></a>
+                            src="img/logos/mastylni-materialy/total.png" alt=""></a>
                     <a target="_blank" href="http://www.lotos.pl/en/" class="section1_logo-item"><img
-                                src="img/logos/mastylni-materialy/lotus.png" alt=""></a>
+                            src="img/logos/mastylni-materialy/lotus.png" alt=""></a>
                     <a target="_blank" href="http://agrinol.ua/" class="section1_logo-item"><img
-                                src="img/logos/mastylni-materialy/agrinol.png" alt=""></a>
+                            src="img/logos/mastylni-materialy/agrinol.png" alt=""></a>
                     <a target="_blank" href="https://www.mobil.com/en/" class="section1_logo-item"><img
-                                src="img/logos/mastylni-materialy/mobil.png" alt=""></a>
+                            src="img/logos/mastylni-materialy/mobil.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="https://www.elf.ua/ru" class="section1_logo-item"><img
-                                src="img/logos/mastylni-materialy/elf.png" alt=""></a>
+                            src="img/logos/mastylni-materialy/elf.png" alt=""></a>
                     <a target="_blank" href="http://www.naftan.by/ru/default_ru.aspx" class="section1_logo-item"><img
-                                src="img/logos/mastylni-materialy/naftan.png" alt=""></a>
+                            src="img/logos/mastylni-materialy/naftan.png" alt=""></a>
                 </div>
             </div>
             <div data-title="avtohimia" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://vira.ua/" class="section1_logo-item"><img
-                                src="img/logos/avtohimia/1.png" alt=""></a>
+                            src="img/logos/avtohimia/1.png" alt=""></a>
                     <a target="_blank" href="https://www.k2car.com/ru/" class="section1_logo-item"><img
-                                src="img/logos/avtohimia/2.png" alt=""></a>
+                            src="img/logos/avtohimia/2.png" alt=""></a>
                     <a target="_blank" href="https://www.higear.com.ua/" class="section1_logo-item"><img
-                                src="img/logos/avtohimia/3.png" alt=""></a>
+                            src="img/logos/avtohimia/3.png" alt=""></a>
                     <a target="_blank" href="https://www.wd40.com/" class="section1_logo-item"><img
-                                src="img/logos/avtohimia/4.png" alt=""></a>
+                            src="img/logos/avtohimia/4.png" alt=""></a>
                     <a target="_blank" href="https://piton.in.ua/ru/" class="section1_logo-item"><img
-                                src="img/logos/avtohimia/5.png" alt=""></a>
+                            src="img/logos/avtohimia/5.png" alt=""></a>
                     <a target="_blank" href="https://www.total.ua/" class="section1_logo-item"><img
-                                src="img/logos/avtohimia/6.png" alt=""></a>
+                            src="img/logos/avtohimia/6.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="http://gpl.ua" class="section1_logo-item"><img
-                                src="img/logos/avtohimia/7.png" alt=""></a>
+                            src="img/logos/avtohimia/7.png" alt=""></a>
                     <a target="_blank" href="https://imex.ck.ua/" class="section1_logo-item"><img
-                                src="img/logos/avtohimia/8.png" alt=""></a>
+                            src="img/logos/avtohimia/8.png" alt=""></a>
                 </div>
             </div>
             <div data-title="aerozoli" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://mitka.gpl.ua" class="section1_logo-item"><img
-                                src="img/logos/aerozolni-farby/1.png" alt=""></a>
+                            src="img/logos/aerozolni-farby/1.png" alt=""></a>
                     <a target="_blank" href="https://newton.ua/" class="section1_logo-item"><img
-                                src="img/logos/aerozolni-farby/2.png" alt=""></a>
+                            src="img/logos/aerozolni-farby/2.png" alt=""></a>
                     <a target="_blank" href="https://newton.ua/" class="section1_logo-item"><img
-                                src="img/logos/aerozolni-farby/3.png" alt=""></a>
+                            src="img/logos/aerozolni-farby/3.png" alt=""></a>
                     <a target="_blank" href="http://troton.eu/ru/" class="section1_logo-item"><img
-                                src="img/logos/aerozolni-farby/4.png" alt=""></a>
+                            src="img/logos/aerozolni-farby/4.png" alt=""></a>
                     <a target="_blank" href="http://colorsim.com/" class="section1_logo-item"><img
-                                src="img/logos/aerozolni-farby/5.png" alt=""></a>
+                            src="img/logos/aerozolni-farby/5.png" alt=""></a>
                     <a target="_blank" href="http://mitka.gpl.ua" class="section1_logo-item"><img
-                                src="img/logos/aerozolni-farby/6.png" alt=""></a>
+                            src="img/logos/aerozolni-farby/6.png" alt=""></a>
                 </div>
             </div>
             <div data-title="filtry" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://www.fram-europe.com/ru/index.html" class="section1_logo-item"><img
-                                src="img/logos/filtry/1.png" alt=""></a>
+                            src="img/logos/filtry/1.png" alt=""></a>
                     <a target="_blank" href="http://automega.biz" class="section1_logo-item"><img
-                                src="img/logos/filtry/2.png" alt=""></a>
+                            src="img/logos/filtry/2.png" alt=""></a>
                     <a target="_blank" href="http://www.rfolg.com.ua/" class="section1_logo-item"><img
-                                src="img/logos/filtry/3.png" alt=""></a>
+                            src="img/logos/filtry/3.png" alt=""></a>
                     <a target="_blank" href="http://alpha-filter.com/" class="section1_logo-item"><img
-                                src="img/logos/filtry/4.png" alt=""></a>
+                            src="img/logos/filtry/4.png" alt=""></a>
                     <a target="_blank" href="https://baldwinfilters.com.ua/" class="section1_logo-item"><img
-                                src="img/logos/filtry/5.png" alt=""></a>
+                            src="img/logos/filtry/5.png" alt=""></a>
                     <a target="_blank" href="https://wixeurope.com/ua" class="section1_logo-item"><img
-                                src="img/logos/filtry/6.png" alt=""></a>
+                            src="img/logos/filtry/6.png" alt=""></a>
                 </div>
             </div>
             <div data-title="galmivi" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://tomexbrakes.pl/" class="section1_logo-item"><img
-                                src="img/logos/halmivni-kolodky/1.png" alt=""></a>
+                            src="img/logos/halmivni-kolodky/1.png" alt=""></a>
                     <a target="_blank" href="http://tkdafmi.ru/" class="section1_logo-item"><img
-                                src="img/logos/halmivni-kolodky/2.png" alt=""></a>
+                            src="img/logos/halmivni-kolodky/2.png" alt=""></a>
                     <a target="_blank" href="http://www.wokingbrakes.com/home" class="section1_logo-item"><img
-                                src="img/logos/halmivni-kolodky/3.png" alt=""></a>
+                            src="img/logos/halmivni-kolodky/3.png" alt=""></a>
                     <a target="_blank" href="http://saturnavto.com.ua/" class="section1_logo-item"><img
-                                src="img/logos/halmivni-kolodky/4.png" alt=""></a>
+                            src="img/logos/halmivni-kolodky/4.png" alt=""></a>
                 </div>
             </div>
             <div data-title="vyhlopni" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://utas.org.ua/" class="section1_logo-item"><img
-                                src="img/logos/vyhlopna-systema/1.png" alt=""></a>
+                            src="img/logos/vyhlopna-systema/1.png" alt=""></a>
                     <a target="_blank" href="https://www.polmostrow.pl/" class="section1_logo-item"><img
-                                src="img/logos/vyhlopna-systema/2.png" alt=""></a>
+                            src="img/logos/vyhlopna-systema/2.png" alt=""></a>
                 </div>
             </div>
             <div data-title="akumulyatory" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://exidetechnologies.ru/" class="section1_logo-item"><img
-                                src="img/logos/akumulyatory/1.png" alt=""></a>
+                            src="img/logos/akumulyatory/1.png" alt=""></a>
                     <a target="_blank" href="http://www.sonnenschein.org/" class="section1_logo-item"><img
-                                src="img/logos/akumulyatory/2.png" alt=""></a>
+                            src="img/logos/akumulyatory/2.png" alt=""></a>
                     <a target="_blank" href="https://jp.hu/" class="section1_logo-item"><img
-                                src="img/logos/akumulyatory/3.png" alt=""></a>
+                            src="img/logos/akumulyatory/3.png" alt=""></a>
                     <a target="_blank" href="https://accum.com.ua/" class="section1_logo-item"><img
-                                src="img/logos/akumulyatory/4.png" alt=""></a>
+                            src="img/logos/akumulyatory/4.png" alt=""></a>
                 </div>
             </div>
             <div data-title="avtoshiny" class="section1__logos-inner-wrapper">
@@ -395,11 +398,11 @@
                     <a target="_blank" href="https://www.goodyear.eu/uk_ua/consumer.html"
                        class="section1_logo-item"><img src="img/logos/shyny/1.png" alt=""></a>
                     <a target="_blank" href="https://www.fulda.com/fulda_ua_uk/" class="section1_logo-item"><img
-                                src="img/logos/shyny/2.png" alt=""></a>
+                            src="img/logos/shyny/2.png" alt=""></a>
                     <a target="_blank" href="https://www.debica.com.pl/" class="section1_logo-item"><img
-                                src="img/logos/shyny/3.png" alt=""></a>
+                            src="img/logos/shyny/3.png" alt=""></a>
                     <a target="_blank" href="https://dunlop-tire.ru/" class="section1_logo-item"><img
-                                src="img/logos/shyny/4.png" alt=""></a>
+                            src="img/logos/shyny/4.png" alt=""></a>
                     <a target="_blank" href="https://www.sava-tires.com/sava/ua_ru/m/index.jsp"
                        class="section1_logo-item"><img src="img/logos/shyny/5.png" alt=""></a>
                 </div>
@@ -412,187 +415,187 @@
             <div data-title="zapchastyny" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://fenox.com/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/1.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/1.png" alt=""></a>
                     <a target="_blank" href="https://www.caffaro.pl/ru" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/2.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/2.png" alt=""></a>
                     <a target="_blank" href="http://www.av-autotechnik.ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/3.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/3.png" alt=""></a>
                     <a target="_blank" href="https://www.brisk.ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/4.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/4.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://baldwinfilters.com.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/5.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/5.png" alt=""></a>
                     <a target="_blank" href="https://wixeurope.com/ua" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/6.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/6.png" alt=""></a>
                     <a target="_blank" href="https://www.fram-europe.com/ru/index.html" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/7.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/7.png" alt=""></a>
                     <a target="_blank" href="http://alpha-filter.com/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/8.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/8.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://www.ertcompany.com/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/9.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/9.png" alt=""></a>
                     <a target="_blank" href="http://autotechgroup.cz/ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/10.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/10.png" alt=""></a>
                     <a target="_blank" href="https://www.gknautomotive.com/en/AftermarketMotorsport/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/11.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/11.png" alt=""></a>
                     <a target="_blank" href="http://www.nuovatecnodelta.it/hydraulic-spares-for-brakes-clutch-parts.asp" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/12.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/12.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://www.brisk.ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/13.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/13.png" alt=""></a>
                     <a target="_blank" href="https://utas.org.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/14.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/14.png" alt=""></a>
                     <a target="_blank" href="https://auto-elegant.com/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/15.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/15.png" alt=""></a>
                     <a target="_blank" href="https://www.optibelt.com/de/home/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/16.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/16.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://www.lavita.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/17.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/17.png" alt=""></a>
                     <a target="_blank" href="http://www.rfolg.com.ua/"
                        class="section1_logo-item"><img src="img/logos-mobile/zapchastyny-ta-aksesuary/18.png"
                                                        alt=""></a>
                     <a target="_blank" href="http://www.wokingbrakes.com/home" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/19.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/19.png" alt=""></a>
                     <a target="_blank" href="http://www.lsa-automotive.com/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/20.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/20.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://doloni.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/21.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/21.png" alt=""></a>
                     <a target="_blank" href="https://www.tedgum.pl/ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/22.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/22.png" alt=""></a>
                     <a target="_blank" href="http://www.balrt.ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/23.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/23.png" alt=""></a>
                     <a target="_blank" href="https://www.dello.de/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/24.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/24.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://tkdafmi.ru/"
                        class="section1_logo-item"><img src="img/logos-mobile/zapchastyny-ta-aksesuary/25.png"
                                                        alt=""></a>
                     <a target="_blank" href="https://www.brisk.ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/26.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/26.png" alt=""></a>
                     <a target="_blank" href="/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/27.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/27.png" alt=""></a>
                     <a target="_blank" href="https://tomexbrakes.pl/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/28.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/28.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="https://www.al-ko.com/ru" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/29.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/29.png" alt=""></a>
                     <a target="_blank" href="https://www.polmostrow.pl/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/30.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/30.png" alt=""></a>
                     <a target="_blank" href="/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/31.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/31.png" alt=""></a>
                     <a target="_blank" href="http://saturnavto.com.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/zapchastyny-ta-aksesuary/32.png" alt=""></a>
+                            src="img/logos-mobile/zapchastyny-ta-aksesuary/32.png" alt=""></a>
                 </div>
             </div>
             <div data-title="mastylni" class="section1__logos-inner-wrapper active">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://mol-ukraine.com.ua/ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/mastylni-materialy/1.png" alt=""></a>
+                            src="img/logos-mobile/mastylni-materialy/1.png" alt=""></a>
                     <a target="_blank" href="https://vira.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/mastylni-materialy/2.png" alt=""></a>
+                            src="img/logos-mobile/mastylni-materialy/2.png" alt=""></a>
                     <a target="_blank" href="https://www.total.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/mastylni-materialy/3.png" alt=""></a>
+                            src="img/logos-mobile/mastylni-materialy/3.png" alt=""></a>
                     <a target="_blank" href="http://www.lotos.pl/en/" class="section1_logo-item"><img
-                                src="img/logos-mobile/mastylni-materialy/4.png" alt=""></a>
+                            src="img/logos-mobile/mastylni-materialy/4.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="https://www.elf.ua/ru" class="section1_logo-item"><img
-                                src="img/logos-mobile/mastylni-materialy/5.png" alt=""></a>
+                            src="img/logos-mobile/mastylni-materialy/5.png" alt=""></a>
                     <a target="_blank" href="https://www.mobil.com/en/" class="section1_logo-item"><img
-                                src="img/logos-mobile/mastylni-materialy/6.png" alt=""></a>
+                            src="img/logos-mobile/mastylni-materialy/6.png" alt=""></a>
                     <a target="_blank" href="http://www.naftan.by/ru/default_ru.aspx" class="section1_logo-item"><img
-                                src="img/logos-mobile/mastylni-materialy/7.png" alt=""></a>
+                            src="img/logos-mobile/mastylni-materialy/7.png" alt=""></a>
                     <a target="_blank" href="http://agrinol.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/mastylni-materialy/8.png" alt=""></a>
+                            src="img/logos-mobile/mastylni-materialy/8.png" alt=""></a>
                 </div>
             </div>
             <div data-title="avtohimia" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://vira.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/avtohimia/1.png" alt=""></a>
+                            src="img/logos-mobile/avtohimia/1.png" alt=""></a>
                     <a target="_blank" href="https://www.k2car.com/ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/avtohimia/2.png" alt=""></a>
+                            src="img/logos-mobile/avtohimia/2.png" alt=""></a>
                     <a target="_blank" href="https://www.higear.com.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/avtohimia/3.png" alt=""></a>
+                            src="img/logos-mobile/avtohimia/3.png" alt=""></a>
                     <a target="_blank" href="https://www.total.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/avtohimia/4.png" alt=""></a>
+                            src="img/logos-mobile/avtohimia/4.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="https://piton.in.ua/ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/avtohimia/5.png" alt=""></a>
+                            src="img/logos-mobile/avtohimia/5.png" alt=""></a>
                     <a target="_blank" href="https://www.wd40.com/" class="section1_logo-item"><img
-                                src="img/logos-mobile/avtohimia/6.png" alt=""></a>
+                            src="img/logos-mobile/avtohimia/6.png" alt=""></a>
                     <a target="_blank" href="/" class="section1_logo-item"><img
-                                src="img/logos-mobile/avtohimia/7.png" alt=""></a>
+                            src="img/logos-mobile/avtohimia/7.png" alt=""></a>
                     <a target="_blank" href="https://imex.ck.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/avtohimia/8.png" alt=""></a>
+                            src="img/logos-mobile/avtohimia/8.png" alt=""></a>
                 </div>
             </div>
             <div data-title="aerozoli" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://mitka.gpl.ua" class="section1_logo-item"><img
-                                src="img/logos-mobile/aerozolni-farby/1.png" alt=""></a>
+                            src="img/logos-mobile/aerozolni-farby/1.png" alt=""></a>
                     <a target="_blank" href="https://newton.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/aerozolni-farby/2.png" alt=""></a>
+                            src="img/logos-mobile/aerozolni-farby/2.png" alt=""></a>
                     <a target="_blank" href="https://newton.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/aerozolni-farby/3.png" alt=""></a>
+                            src="img/logos-mobile/aerozolni-farby/3.png" alt=""></a>
                     <a target="_blank" href="http://mitka.gpl.ua" class="section1_logo-item"><img
-                                src="img/logos-mobile/aerozolni-farby/4.png" alt=""></a>
+                            src="img/logos-mobile/aerozolni-farby/4.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="http://colorsim.com/" class="section1_logo-item"><img
-                                src="img/logos-mobile/aerozolni-farby/5.png" alt=""></a>
+                            src="img/logos-mobile/aerozolni-farby/5.png" alt=""></a>
                     <a target="_blank" href="http://troton.eu/ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/aerozolni-farby/6.png" alt=""></a>
+                            src="img/logos-mobile/aerozolni-farby/6.png" alt=""></a>
                     <a style="visibility: hidden; height: 1px;" target="_blank" href="http://colorsim.com/"
                        class="section1_logo-item"><img
-                                src="img/logos-mobile/aerozolni-farby/5.png" alt=""></a>
+                            src="img/logos-mobile/aerozolni-farby/5.png" alt=""></a>
                     <a style="visibility: hidden; height: 1px;" target="_blank" href="http://mitka.gpl.ua"
                        class="section1_logo-item"><img
-                                src="img/logos-mobile/aerozolni-farby/6.png" alt=""></a>
+                            src="img/logos-mobile/aerozolni-farby/6.png" alt=""></a>
                 </div>
             </div>
             <div data-title="filtry" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://wixeurope.com/en" class="section1_logo-item"><img
-                                src="img/logos-mobile/filtry/1.png" alt=""></a>
+                            src="img/logos-mobile/filtry/1.png" alt=""></a>
                     <a target="_blank" href="http://automega.biz" class="section1_logo-item"><img
-                                src="img/logos-mobile/filtry/2.png" alt=""></a>
+                            src="img/logos-mobile/filtry/2.png" alt=""></a>
                     <a target="_blank" href="http://www.rfolg.com.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/filtry/3.png" alt=""></a>
+                            src="img/logos-mobile/filtry/3.png" alt=""></a>
                     <a target="_blank" href="https://www.fram-europe.com/ru/index.html" class="section1_logo-item"><img
-                                src="img/logos-mobile/filtry/4.png" alt=""></a>
+                            src="img/logos-mobile/filtry/4.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="https://baldwinfilters.com.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/filtry/5.png" alt=""></a>
+                            src="img/logos-mobile/filtry/5.png" alt=""></a>
                     <a target="_blank" href="http://alpha-filter.com/en" class="section1_logo-item"><img
-                                src="img/logos-mobile/filtry/6.png" alt=""></a>
+                            src="img/logos-mobile/filtry/6.png" alt=""></a>
                     <a style="visibility: hidden; height: 1px;" target="_blank" href="https://baldwinfilters.com.ua/"
                        class="section1_logo-item"><img
-                                src="img/logos-mobile/filtry/5.png" alt=""></a>
+                            src="img/logos-mobile/filtry/5.png" alt=""></a>
                     <a style="visibility: hidden; height: 1px;" target="_blank" href="https://wixeurope.com/ua"
                        class="section1_logo-item"><img
-                                src="img/logos-mobile/filtry/6.png" alt=""></a>
+                            src="img/logos-mobile/filtry/6.png" alt=""></a>
                 </div>
             </div>
             <div data-title="galmivi" class="section1__logos-inner-wrapper section1__logos-inner-wrapper--galmivni">
                 <div class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="http://www.wokingbrakes.com/home" class="section1_logo-item"><img
-                                src="img/logos-mobile/halmivni-kolodky/1.png" alt=""></a>
+                            src="img/logos-mobile/halmivni-kolodky/1.png" alt=""></a>
                     <a target="_blank" href="http://tkdafmi.ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/halmivni-kolodky/2.png" alt=""></a>
+                            src="img/logos-mobile/halmivni-kolodky/2.png" alt=""></a>
                     <a target="_blank" href="http://saturnavto.com.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/halmivni-kolodky/3.png" alt=""></a>
+                            src="img/logos-mobile/halmivni-kolodky/3.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="https://tomexbrakes.pl/" class="section1_logo-item"><img
@@ -608,21 +611,21 @@
             <div data-title="vyhlopni" class="section1__logos-inner-wrapper">
                 <div style="width: 174px" class="section1__logos-inner-wrapper-separator">
                     <a target="_blank" href="https://utas.org.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/vyhlopna-systema/1.png" alt=""></a>
+                            src="img/logos-mobile/vyhlopna-systema/1.png" alt=""></a>
                     <a target="_blank" href="https://www.polmostrow.pl/" class="section1_logo-item"><img
-                                src="img/logos-mobile/vyhlopna-systema/2.png" alt=""></a>
+                            src="img/logos-mobile/vyhlopna-systema/2.png" alt=""></a>
                 </div>
             </div>
             <div data-title="akumulyatory" class="section1__logos-inner-wrapper">
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--akumulyatory">
                     <a target="_blank" href="http://exidetechnologies.ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/akumulyatory/1.png" alt=""></a>
+                            src="img/logos-mobile/akumulyatory/1.png" alt=""></a>
                     <a target="_blank" href="http://www.sonnenschein.org/" class="section1_logo-item"><img
-                                src="img/logos-mobile/akumulyatory/2.png" alt=""></a>
+                            src="img/logos-mobile/akumulyatory/2.png" alt=""></a>
                     <a target="_blank" href="https://jp.hu/" class="section1_logo-item"><img
-                                src="img/logos-mobile/akumulyatory/3.png" alt=""></a>
+                            src="img/logos-mobile/akumulyatory/3.png" alt=""></a>
                     <a target="_blank" href="https://accum.com.ua/" class="section1_logo-item"><img
-                                src="img/logos-mobile/akumulyatory/4.png" alt=""></a>
+                            src="img/logos-mobile/akumulyatory/4.png" alt=""></a>
                 </div>
             </div>
             <div data-title="avtoshiny" class="section1__logos-inner-wrapper">
@@ -630,11 +633,11 @@
                     <a target="_blank" href="https://www.fulda.com/fulda_ua_uk/"
                        class="section1_logo-item"><img src="img/logos-mobile/shyny/1.png" alt=""></a>
                     <a target="_blank" href="https://www.debica.com.pl/" class="section1_logo-item"><img
-                                src="img/logos-mobile/shyny/2.png" alt=""></a>
+                            src="img/logos-mobile/shyny/2.png" alt=""></a>
                     <a target="_blank" href="https://www.sava-tires.com/sava/ua_ru/m/index.jsp" class="section1_logo-item"><img
-                                src="img/logos-mobile/shyny/3.png" alt=""></a>
+                            src="img/logos-mobile/shyny/3.png" alt=""></a>
                     <a target="_blank" href="https://dunlop-tire.ru/" class="section1_logo-item"><img
-                                src="img/logos-mobile/shyny/4.png" alt=""></a>
+                            src="img/logos-mobile/shyny/4.png" alt=""></a>
                 </div>
                 <div class="section1__logos-inner-wrapper-separator section1__logos-inner-wrapper-separator--last">
                     <a target="_blank" href="https://www.goodyear.eu/uk_ua/consumer.html"
@@ -909,8 +912,8 @@
             <img class="section2__left-item" src="img/about/2.svg" alt="">
             <img class="section2__left-item" src="img/about/3.svg" alt="">
             <img class="section2__left-item section2__left-item--4" src="img/about/4.svg" alt="">
-            <img class="section2__left-item" src="img/about/5.svg" style="margin-bottom: 73px;" alt="">
-            <img class="section2__left-item" src="img/about/6.svg" alt="">
+            <img class="section2__left-item" src="img/about/5.svg" style="/*margin-bottom: 73px;*/margin-bottom: 12.5%;" alt="">
+            <img class="section2__left-item section2__left-item--6" src="img/about/6.svg" alt="">
         </div>
         <div class="section2_right">
             <p><b>GPL</b> — група компаній, яка веде діяльність з виробництва, дистрибуції та продажу мастильних
@@ -953,15 +956,15 @@
         <div class="section2__images">
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/1.svg" alt="">
-                <img class="section2__left-item" src="img/about/2.svg" alt="">
+                <img class="section2__left-item section2__left-item--2-mob" src="img/about/2.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/3.svg" alt="">
-                <img class="section2__left-item" src="img/about/4.svg" alt="">
+                <img class="section2__left-item section2__left-item--4-mob" src="img/about/4.svg" alt="">
             </div>
             <div class="section2__images__inner-wrapper">
                 <img class="section2__left-item" src="img/about/5.svg" alt="">
-                <img class="section2__left-item section2__left-item--mg-fix" src="img/about/6.svg" alt="">
+                <img class="section2__left-item section2__left-item--mg-fix section2__left-item--6-mob" src="img/about/6.svg" alt="">
             </div>
         </div>
     </div>
@@ -1071,6 +1074,21 @@
             <img src="img/certificates/small-mobile/20.png" alt=""/>
         </a>
         <a href="img/certificates/big/21.png" data-fancybox="images">
+            <span class="section3__certificates_item-bg"></span>
+            <img src="img/certificates/small/21.png" alt=""/>
+            <img src="img/certificates/small-mobile/21.png" alt=""/>
+        </a>
+        <a class="hidden" href="img/certificates/big/21.png" data-fancybox="images">
+            <span class="section3__certificates_item-bg"></span>
+            <img src="img/certificates/small/21.png" alt=""/>
+            <img src="img/certificates/small-mobile/21.png" alt=""/>
+        </a>
+        <a class="hidden" href="img/certificates/big/21.png" data-fancybox="images">
+            <span class="section3__certificates_item-bg"></span>
+            <img src="img/certificates/small/21.png" alt=""/>
+            <img src="img/certificates/small-mobile/21.png" alt=""/>
+        </a>
+        <a class="hidden" href="img/certificates/big/21.png" data-fancybox="images">
             <span class="section3__certificates_item-bg"></span>
             <img src="img/certificates/small/21.png" alt=""/>
             <img src="img/certificates/small-mobile/21.png" alt=""/>
@@ -1432,11 +1450,11 @@
         <div class="section-contacts__inner-wrapper">
             <div class="section-contacts__left">
                 <a href="tel:+380532655036" class="section-contacts__left-item section-contacts__left-item--phone"><img
-                            src="img/phone-icon.png" alt=""> +38 (0532) 65 50 36</a>
+                        src="img/phone-icon.png" alt=""> +38 (0532) 65 50 36</a>
                 <span class="section-contacts__left-item section-contacts__left-item--time"><img src="img/time-icon.png"
                                                                                                  alt=""> Пн-Пт / 09.00-18.00</span>
                 <a href="mailto:info@gpl.ua" class="section-contacts__left-item section-contacts__left-item--email"><img
-                            src="img/mail-icon.png" alt=""> info@gpl.ua</a>
+                        src="img/mail-icon.png" alt=""> info@gpl.ua</a>
             </div>
             <div class="section-contacts__center">
                 <span class="section-contacts__center-title">З питань співпраці та інших<br>
@@ -1484,25 +1502,27 @@
 <script src="js/main-gpl.js"></script>
 <!--footer scripts end-->
 <script>
-    $(".item.poltava").click(function () {
-        google.maps.event.trigger(marker[0], 'click', {});
-    });
+    if($(window).width() >= 960) {
+        $(".item.poltava").click(function () {
+            google.maps.event.trigger(marker[0], 'click', {});
+        });
 
-    $(".item.kremenchuk").click(function () {
-        google.maps.event.trigger(marker[1], 'click', {});
-    });
+        $(".item.kremenchuk").click(function () {
+            google.maps.event.trigger(marker[1], 'click', {});
+        });
 
-    $(".item.harkiv").click(function () {
-        google.maps.event.trigger(marker[2], 'click', {});
-    });
+        $(".item.harkiv").click(function () {
+            google.maps.event.trigger(marker[2], 'click', {});
+        });
 
-    $(".item.borispol").click(function () {
-        google.maps.event.trigger(marker[3], 'click', {});
-    });
+        $(".item.borispol").click(function () {
+            google.maps.event.trigger(marker[3], 'click', {});
+        });
 
-    $(".item.ternopol").click(function () {
-        google.maps.event.trigger(marker[4], 'click', {});
-    });
+        $(".item.ternopol").click(function () {
+            google.maps.event.trigger(marker[4], 'click', {});
+        });
+    }
 </script>
 <div class="menu-burger-wrapper">
     <div id="overlay">
@@ -1536,7 +1556,7 @@
 <script>
     grecaptcha.ready(function() {
         grecaptcha.execute('6LfVBu0UAAAAAEzzm1uYipzv_239MLI-jNTXM5Q6', {action: 'homepage'}).then(function(token) {
-        //console.log(token);
+            //console.log(token);
             document.getElementById('g-recaptcha-response').value = token;
         });
     });

@@ -1,6 +1,6 @@
 </div>
 <link rel="stylesheet" href="css/new-footer-on-old-pages.css">
-<div class="footer-wrapper-n">
+<div class="footer-wrapper-n" id="cont">
     <div class="footer-n" id="footer">
         <div class="section-contacts container">
             <h2 class="section-contacts__title">Contacts</h2>
@@ -73,7 +73,7 @@
 					<a href="/career-en.php" class="career">Career</a>
 				</div>
 			</div>
-		</div>	-->
+		</div>-->
 
 		<!--<div class="footer">
 			<div class="wrap">
@@ -119,7 +119,7 @@
 							<div class="row">
 								<h2>Меню</h2>
 								<ul>
-									<li><a href="/en.php">Home</a></li>
+									<li><a href="/en.php?l=selected">Home</a></li>
 									<li><a href="/b2b-en.php">B2B</a></li>
 									<li><a href="/b2c-en.php">B2C</a></li>
 									<li><a href="/services-en.php">SERVICES</a></li>
