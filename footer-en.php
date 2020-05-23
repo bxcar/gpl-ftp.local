@@ -13,7 +13,7 @@
                                 src="img/mail-icon.png" alt=""> info@gpl.ua</a>
                 </div>
                 <div class="section-contacts__center">
-                    <span class="section-contacts__center-title">Please, write us in case of any cooperation<br>and other issues:</span>
+                    <span class="section-contacts__center-title">Please, write us in case of any<br>cooperation and other issues:</span>
                     <a href="#modal-2" class="section-contacts__center-button open-popup">Send message</a>
                 </div>
                 <div class="section-contacts__right">
