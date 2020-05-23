@@ -360,6 +360,7 @@ a img {
     position: absolute;
     z-index: 5;
     opacity: 0.3;
+    display: none;
 }
 
 .header.page:after {
@@ -371,6 +372,7 @@ a img {
     position: absolute;
     z-index: 3;
 	top: 0;
+    display: none;
 }
 
 .submit {

@@ -415,7 +415,8 @@ header {
     font-size: 18px;
     line-height: 25px;
     color: #fff;
-    text-decoration: none
+    text-decoration: none;
+    white-space: nowrap;
 }
 
 .header__language {

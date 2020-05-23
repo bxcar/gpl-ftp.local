@@ -1,4 +1,48 @@
-<div id="cont" class="block-contact wrap">
+</div>
+<link rel="stylesheet" href="css/new-footer-on-old-pages.css">
+<div class="footer-wrapper-n">
+    <div class="footer-n" id="footer">
+        <div class="section-contacts container">
+            <h2 class="section-contacts__title">Контакты</h2>
+            <div class="section-contacts__inner-wrapper">
+                <div class="section-contacts__left">
+                    <a href="tel:+380532655036" class="section-contacts__left-item section-contacts__left-item--phone"><img
+                                src="img/phone-icon.png" alt=""> +38 (0532) 65 50 36</a>
+                    <span class="section-contacts__left-item section-contacts__left-item--time"><img src="img/time-icon.png"
+                                                                                                     alt=""> Пн-Пт / 09.00-18.00</span>
+                    <a href="mailto:info@gpl.ua" class="section-contacts__left-item section-contacts__left-item--email"><img
+                                src="img/mail-icon.png" alt=""> info@gpl.ua</a>
+                </div>
+                <div class="section-contacts__center">
+                <span class="section-contacts__center-title">По вопросам сотрудничества и другим<br>возникшим вопросам, напишите нам:</span>
+                    <!--<a data-fancybox data-src="#hidden-content" href="javascript:;" class="section-contacts__center-button">Надіслати
+                        повідомлення</a>-->
+                    <a href="#modal-2" class="section-contacts__center-button open-popup">Отправить сообщение</a>
+                </div>
+                <div class="section-contacts__right">
+                    <span class="section-contacts__right-title">Мы в социальных сетях:</span>
+                    <div class="section-contacts__right-socials-wrapper">
+                        <a target="_blank" href="https://www.facebook.com/gpl.ukraine/"><img src="img/facebook-icon.svg" alt=""></a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCtlHMU1oBffpTirOSjUA7gw"><img src="img/youtube-icon.svg" alt=""></a>
+                        <a target="_blank" href="https://www.instagram.com/gpl.ukraine/"><img src="img/inst-icon.svg" alt=""></a>
+                    </div>
+                    <div class="section-contacts__links-wrapper">
+                        <a href="https://gpl.ua/career.php" class="section-contacts__right-link">Карьера</a>
+                        <a target="_blank" href="https://corp.gpl.ua/" class="section-contacts__right-link">Corp</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer__bottom">
+            <div class="container">
+                <img src="img/logo.svg" alt="">
+                <span class="footer__copyright">Copyright © 1996 - 2020 LLC GPL</span>
+                <a href="https://gpl.ua/2.pdf" target="_blank" class="footer__download-button">Скачать презентацию</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--<div id="cont" class="block-contact wrap">
 			<div class="content">
 				<div class="col col-1">
 					<h2>КОНТАКТЫ</h2>
@@ -32,9 +76,9 @@
 					<a href="/career.php" class="career">Карьера</a>
 				</div>
 			</div>
-		</div>		
+		</div>-->
 
-		<div class="footer">
+		<!--<div class="footer">
 			<div class="wrap">
 				<div class="logo">
 					<img src="images/3.png" alt=""/>
@@ -46,7 +90,7 @@
 					<a href="/2.pdf" target="_blank">Скачать презентацию</a>
 				</div>
 			</div>
-			</div>
+			</div>-->
 			
 			<div id="overlay">
 				<div class="popup-close-bg" onclick="video('')"></div>		
